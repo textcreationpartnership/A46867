@@ -1,0 +1,598 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The friendly enquirer's doubts and objections answered concerning the light within, the word of God, the church of Christ, gospel ministers, ordinances in general and in particular, water baptism, and the Lord's supper : together with a brief testimony against oaths and swearing / first intended and written for the satisfaction of some particular acquaintance and now published for more general service by James Jackson.</title>
+            <author>Jackson, James, fl. 1674-1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 89 KB of XML-encoded text transcribed from 55 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46867</idno>
+            <idno type="STC">Wing J73</idno>
+            <idno type="STC">ESTC R34952</idno>
+            <idno type="EEBO-CITATION">14914007</idno>
+            <idno type="OCLC">ocm 14914007</idno>
+            <idno type="VID">102893</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46867)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102893)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1572:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The friendly enquirer's doubts and objections answered concerning the light within, the word of God, the church of Christ, gospel ministers, ordinances in general and in particular, water baptism, and the Lord's supper : together with a brief testimony against oaths and swearing / first intended and written for the satisfaction of some particular acquaintance and now published for more general service by James Jackson.</title>
+                  <author>Jackson, James, fl. 1674-1708.</author>
+               </titleStmt>
+               <extent>106 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines.</term>
+               <term>Theology, Doctrinal --  Quaker authors.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102893:1"/>
+            <pb facs="tcp:102893:1" rendition="simple:additions"/>
+            <p>THE Friendly Enquirer's <hi>Doubts</hi> and <hi>Objections</hi> ANSWERED: Concerning
+<list>
+                  <item>The <hi>Light within.</hi>
+                  </item>
+                  <item>The <hi>Word</hi> of <hi>God.</hi>
+                  </item>
+                  <item>The <hi>Church</hi> of <hi>Chriſt.</hi>
+                  </item>
+                  <item>
+                     <hi>Goſpel Miniſters.</hi>
+                  </item>
+                  <item>
+                     <hi>Ordinances</hi> in General and in Particular.</item>
+                  <item>
+                     <hi>Water Baptiſm</hi> and</item>
+                  <item>The <hi>Lord's Supper.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>TOGETHER With a Brief <hi>Teſtimony</hi> againſt OATHS and SWEARING.</p>
+            <p>Firſt Intended and Written for the Satiſ<g ref="char:EOLhyphen"/>faction of ſome particular Acquaintance. And now publiſhed for more General Service.</p>
+            <p>By <hi>Iames Iackſon.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed and Sold by <hi>T. Sowle,</hi> next door to the <hi>Meeting-Houſe</hi> in <hi>White-Hart-Court</hi> in <hi>Gracious-Street,</hi> 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:102893:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:102893:2"/>
+            <head>THE Friendly Enquirer's <hi>Doubts</hi> and <hi>Objections</hi> ANSWERED, <hi>&amp;c.</hi>
+            </head>
+            <p>THat which was from the beginning, even that good Word of Life, which is the <hi>Light</hi> of Men; that which we have <hi>ſeen,</hi> and <hi>heard,</hi> and <hi>taſt<g ref="char:EOLhyphen"/>ed</hi> of, is here declared unto you, that ye alſo may have Fellow<g ref="char:EOLhyphen"/>ſhip with us: And truly our Fellowſhip is with the Father, and with his Son Jeſus Chriſt; and for this and no other end, write I unto you, but that your joy may be full. This then is
+<pb n="4" facs="tcp:102893:3"/>
+the Meſſage that God is <hi>Light,</hi> and in him is no darkneſs at all; and if we ſay that we have Fel<g ref="char:EOLhyphen"/>lowſhip with him, and walk in darkneſs, we Lie and do not the Truth: But if we walk in the <hi>Light,</hi> as he is in the <hi>Light,</hi> we have Fellowſhip one with ano<g ref="char:EOLhyphen"/>ther; and the Blood of Jeſus Chriſt his Son, cleanſeth us from all Sin: If we ſay we have no Sin, we deceive our ſelves, and the Truth is not in us; but if we confeſs our Sins, he is faith<g ref="char:EOLhyphen"/>ful and juſt to forgive us our Sins, and to cleanſe us from all our Unrighteouſneſs, 1 <hi>John.</hi> 1.1.2.3. to the 9th.</p>
+            <p>Whoever therefore would at<g ref="char:EOLhyphen"/>tain unto the bleſſed Work of <hi>Sanctification,</hi> to be cleanſed from all Sin by the Blood of Je<g ref="char:EOLhyphen"/>ſus Chriſt, and ſo come to enjoy the comfortable fellowſhip of
+<pb n="5" facs="tcp:102893:3"/>
+the <hi>Holy Ghoſt,</hi> which proceeds from the <hi>Father</hi> and the <hi>Son, Muſt turn from Darkneſs to Light,</hi> (<hi>Acts</hi> 26.18.) muſt <hi>Believe in the</hi> Light (<hi>John</hi> 12.36.) And walk in the <hi>Light,</hi> even as he is in the <hi>Light,</hi> and will know that this Turning is an <hi>Inward Turning</hi> from the Darkneſs which is <hi>within,</hi> unto the <hi>Light within,</hi> where the Day dawn<g ref="char:EOLhyphen"/>eth his <hi>Star</hi> ariſeth, and the day ſpring from on high, doth viſit us even in our <hi>Hearts,</hi> 2. <hi>Pet.</hi> 1.19. Wherefore bleſſed are they who are not offended in the <hi>Light,</hi> but turn to it, be<g ref="char:EOLhyphen"/>lieve in it, and obey it in all things.</p>
+            <p n="1">1. <hi>Objection,</hi> But we are a<g ref="char:EOLhyphen"/>fraid of being deceived: This is a new and ſtrange <hi>Doctrine,</hi> did ever <hi>Chriſt</hi> or his <hi>Apoſtles</hi> bid Men believe and obey the <hi>Light within?</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:102893:4"/>Anſwer, 1. Are you not al<g ref="char:EOLhyphen"/>ready deceived? Conſider and faithfully examine your own conditions, if you are delivered out of the deceived State, where<g ref="char:EOLhyphen"/>in the greateſt part of the World yet remain, are you not in a ſinful Traſgreſſing State? For 'tis ſaid, <hi>The Woman being deceived was in the Tranſgreſſion,</hi> 1 <hi>Tim.</hi> 2.14.</p>
+            <p n="2">(2.) They who believe and abide in the <hi>Light,</hi> know that they are not deceived; ſeek not to deceive any, nor fear any de<g ref="char:EOLhyphen"/>ceiving them; tho' whilſt we walk in the imaginations of our own Hearts, and warmed our ſelves with the ſparks of our own kindling, that then as the <hi>Serpent</hi> beguiled <hi>Eve</hi> through his ſubtilty, ſo our Minds were corrupted from the Simplicity that is in <hi>Jeſus;</hi> in which State
+<pb n="7" facs="tcp:102893:4"/>
+we ſee many yet to ſtand, whom the Lord will undeceive in his own time: But evil Men and ſeducers will wax worſe and worſe, deceiving and being de<g ref="char:EOLhyphen"/>ceived: And never fear deceit in thoſe that turn you to the <hi>Light;</hi> unto which, they that do the Truth bring all their works.</p>
+            <p>Verily you ought cautiouſly to be aware of, and ſuſpect all thoſe who pretend ſafe conduct, but reject and hate the <hi>Light.</hi>
+            </p>
+            <p n="3">(3.) Search and Prove this Doctrine freely, without preju<g ref="char:EOLhyphen"/>dice or partiality judge, nor con<g ref="char:EOLhyphen"/>demn it unheard, ſpeak not evil of any thing unknown; for ſo we may unhappily condemn the Innocent, and make our ſelves Guilty: We ſhould rightly un<g ref="char:EOLhyphen"/>derſtand what another holds, before we contend againſt him; leaſt for want of this Wiſdom
+<pb n="8" facs="tcp:102893:5"/>
+and Patience, we oppoſe not ſo much his Judgment, as our own Conceit: Better it is to hear a Mans mind with meekneſs and candor, than haſtily to gueſs at it.</p>
+            <p n="4">(4.) Be not wedded I be<g ref="char:EOLhyphen"/>ſeech you to any Opinion, nor wiſe in your own Conceits, ſo as to build upon your own, or other Mens Judgments; and reſt ſatisfied therein, becauſe it is ſtrengthned by Multitude, Cuſtom, Authority and Anti<g ref="char:EOLhyphen"/>quity, for undoubtedly many have erred groſly in thoſe things they have thought themſelves infallible.</p>
+            <p>Better it is to cleave to the clear and naked Truth's of God alone, than to follow the Doc<g ref="char:EOLhyphen"/>trines and Examples of the moſt learned and Eminent Profeſſors in the World, when they hold
+<pb n="9" facs="tcp:102893:5"/>
+not the Truth as it is in <hi>Jeſus</hi>
+            </p>
+            <p n="5">(5.) Reproach not this Doc<g ref="char:EOLhyphen"/>trine, ſaying, it is new and ſtrange, or that ye never heard it ſo before; for this diſcovers your ignorance more than my Error, for this which to you may ſeem to be a new Error, being rightly examined by the Scriptures, will evidently prove an old Truth; and if you will needs reject whatſoever to you ſavours of Novelty; how ſhall the Truths we yet know not be brought in, and the Ignorance and Error which yet remain be purged out?</p>
+            <p n="6">(6.) This is the ſame Doc<g ref="char:EOLhyphen"/>trine which was preached by our bleſſed <hi>Saviour,</hi> and his ho<g ref="char:EOLhyphen"/>ly <hi>Prophets</hi> and <hi>Apoſtles,</hi> which was believed and obeyed, by all the Faithful Saints and Servants of God ſince the Creation; the
+<pb n="10" facs="tcp:102893:6"/>
+ſame which the Lord gave in charge to the <hi>Iſraelites</hi> by the mouth of <hi>Moſes,</hi> ſaying, <hi>Behold I ſend my Angel before thee to keep thee in the way, and to bring thee to the place I have prepared:</hi> Beware of him and obey his Voice— <hi>Exod.</hi> 23.20. <hi>But the Soul that doeth ought preſumptu<g ref="char:EOLhyphen"/>ouſly, reproacheth the Lord, and ſhall be cut off from his People, be<g ref="char:EOLhyphen"/>cauſe he hath deſpiſed the Word of the Lord, Numb.</hi> 15.30. what is here meant by the <hi>Word of the Lord?</hi>
+            </p>
+            <p>Anſwer, <hi>Nothing leſs than the Light of Chriſt in their Hearts:</hi> For ſaith <hi>Moſes, It is not hidden from thee, neither is it far off,</hi> but the Word is very nigh, even in <hi>thy Heart, and in thy Mouth,</hi> that thou ſhouldeſt <hi>hear it, and do it, Deut.</hi> 30.11. to 14. to which the <hi>Apoſtle</hi> gives
+<pb n="11" facs="tcp:102893:6"/>
+his Teſtimony, that this Word (or Light) <hi>within,</hi> is not Diaboli<g ref="char:EOLhyphen"/>cal, nor Natural, nor Legal, but Evangelical; and affirms, that obedience thereunto, is of the <hi>Righteouſneſs of Faith, Rom.</hi> 10. from the 5th to the 8th. <hi>David</hi> calls it, a Lamp to his feet, and a Light to his paths, and prays that the <hi>Light</hi> and the <hi>Truth,</hi> may be his Leader and Guide: <hi>Solomon</hi> ſays, <hi>The reproof of in<g ref="char:EOLhyphen"/>ſtruction is the way of Life:</hi> And the Prophet <hi>Iſaiah</hi> teſtifies, thou <hi>ſhalt hear a Word behind thee ſay<g ref="char:EOLhyphen"/>ing, this is the Way walk in it, Iſa.</hi> 30.21. <hi>John</hi> the Baptiſt preached <hi>Chriſt</hi> the <hi>Light,</hi> which was the <hi>Word</hi> which was in the beginning of the World, and <hi>He was ſent to bear witneſs of this Light,</hi> (which is not a falſe Light, or a natural Light) but the true <hi>Light, which lighteth e<g ref="char:EOLhyphen"/>very
+<pb n="12" facs="tcp:102893:7"/>
+Man that cometh into the World,</hi> John 1.9. and our bleſſed Lord ſaid, <hi>John</hi> 8.12. <hi>I am the Light of the World, he that followeth me ſhall not walk in Darkneſs, but ſhall have the Light of Life: While ye therefore have the Light, believe in the Light, that ye may be the Children of the Light, John</hi> 12.36. and he bids, <hi>ſeek firſt the Kingdom of God, and the Righteouſneſs thereof; which Kingdom,</hi> he told the <hi>Scribes</hi> and <hi>Phariſees,</hi> was <hi>in them, Luke</hi> 17.21. whence it is evi<g ref="char:EOLhyphen"/>dent, that every true <hi>Convert</hi> muſt inwardly turn from the Power of <hi>Satan,</hi> and Kingdom of dark<g ref="char:EOLhyphen"/>neſs within, and inwardly ſeek and feel after the marvelous <hi>Light</hi> of God's Kingdom, to <hi>ſeek the Lord if haply they might feel after him and find him, tho' he be not far from every one of us, Acts</hi>
+               <pb n="13" facs="tcp:102893:7"/>
+17.27. and the Apoſtle <hi>James</hi> writing to Sinners, bids them lay aſide <hi>all filthineſs and ſuper<g ref="char:EOLhyphen"/>fluity of naughtineſs, and receive with meekneſs the ingrafted Word, which is able to ſave their Souls;</hi> which <hi>Peter</hi> calls the ſure <hi>Word of Propheſie,</hi> unto which (ſays he) <hi>ye do well to give heed as un<g ref="char:EOLhyphen"/>to a Light that ſhines in a dark place, till the day dawn, and the day ſtar ariſe in your Hearts,</hi> 2 Pet. 1.19. which ſaid <hi>ingrafted Word,</hi> and <hi>ſure Word of Prophe<g ref="char:EOLhyphen"/>ſie,</hi> cannot be intended, or meant by the <hi>Holy Ghoſt</hi> to be the Scriptures, becauſe they are not able to <hi>Save Mens Souls,</hi> or give <hi>Eternal Life</hi> to ſuch as think to have it <hi>thence, John</hi> 5.39. but it is the <hi>Light</hi> of <hi>Chriſt</hi> our Lord, in whom is Life Eternal, and the ſame Life is the <hi>Light</hi> of Men, <hi>and his Name is called the
+<pb n="14" facs="tcp:102893:8"/>
+Word of God,</hi> Rev. 19.13.</p>
+            <p n="2">2 <hi>Object,</hi> But doſt thou deny the <hi>Scriptures</hi> to be the Word of God? Which is the only rule, both for Life, and alſo to judge of Doctrines, and the only <hi>Wea<g ref="char:EOLhyphen"/>pon</hi> to reſiſt <hi>Satan,</hi> and confute his <hi>Miniſters;</hi> and Chriſt over<g ref="char:EOLhyphen"/>came the Tempter only by the Scriptures, which are the Sword of the Spirit, and the Word of God.</p>
+            <p>Anſw. 1. In obedience to the command of <hi>Chriſt,</hi> John 5.39. I have peruſed and diligently ſearched the Scriptures, both in the Originals, and ſeveral Tran<g ref="char:EOLhyphen"/>ſlations, it may be as much as any Man, and find that they ſufficiently declare, and teſti<g ref="char:EOLhyphen"/>fy of, and for our bleſſed <hi>Savi<g ref="char:EOLhyphen"/>our Jeſus Chriſt</hi> to be the <hi>Word</hi> of <hi>God.</hi>
+            </p>
+            <p>
+               <pb n="15" facs="tcp:102893:8"/>But through the whole Vo<g ref="char:EOLhyphen"/>lumn of this holy <hi>Book,</hi> called the <hi>Bible,</hi> and Scriptures of Truth; I find not therein that they are called by this Name.</p>
+            <p n="2">(2.) And therefore that the Scriptures are the <hi>Sword of the Spirit,</hi> or the <hi>Word of God,</hi> I have no Scripture war<g ref="char:EOLhyphen"/>rant to believe, but that the <hi>Word of God, is the Sword of the Spirit,</hi> I own and wit<g ref="char:EOLhyphen"/>neſs experimentally, and that it is <hi>ſharper than a Two edged Sword,</hi> like a <hi>Hammer</hi> and <hi>Fire,</hi> the <hi>Ax at the Root of the Tree,</hi> and that 'tis <hi>
+                  <g ref="char:V">Ʋ</g>nchangeable, In<g ref="char:EOLhyphen"/>corruptible</hi> and <hi>Eternal, without beginning of Days or end of Time,</hi> and ſo are not the Scriptures.</p>
+            <p n="2">(2.) Nevertheleſs we preferr the Holy <hi>Scriptures</hi> (above all <hi>Books</hi>) as they were given forth by the <hi>Holy Spirit</hi> of God, and
+<pb n="16" facs="tcp:102893:9"/>
+therefore of <hi>Divine Authority,</hi> and believe them to be a true Declaration of God, and of his Word, yet we muſt not fix our hopes of Eternal Life in the Scriptures, as the <hi>Jews</hi> did, and would not believe in Chirſt, nor come to him that they might have <hi>Life, John</hi> 5.38.39.40. It is not they therefore who have the Scriptures, but only they who have the Son of God that have life, 1 <hi>John</hi> 5.12.</p>
+            <p n="4">(4.) Wherefore we preferr Chriſt Jeſus above the Scrip<g ref="char:EOLhyphen"/>tures, for in all things <hi>he</hi> muſt have the <hi>preheminence,</hi> therefore ſaid <hi>John, he is preferr'd before me, for he is before me, and before Abraham was</hi> (ſaith Chriſt) <hi>I am:</hi> Wherefore know that we build not upon the holy <hi>Pro<g ref="char:EOLhyphen"/>phets</hi> and <hi>Apoſtles,</hi> their Words, Works, Writings and Experi<g ref="char:EOLhyphen"/>ences,
+<pb n="17" facs="tcp:102893:9"/>
+but upon <hi>Jeſus Chriſt</hi> Himſelf, being the Chief <hi>Cor<g ref="char:EOLhyphen"/>ner Stone,</hi> and the <hi>Foundation</hi> of the <hi>Prophets</hi> and <hi>Apoſtles,</hi> ſo that we have not received our Light, Life, Peace, Comfort, Faith, Hope and Aſſurance from the Writings of the <hi>Saints,</hi> but from him that was their <hi>Light, Life, Hope, Reſt</hi> and <hi>Foundati<g ref="char:EOLhyphen"/>on,</hi> and have our teaching from that inward <hi>Light, Law, Word,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nction,</hi> whereby <hi>Abel, E<g ref="char:EOLhyphen"/>noch, Noah, Abraham, Iſaac, Ja<g ref="char:EOLhyphen"/>cob</hi> and <hi>Joſeph</hi> walked with, and pleaſed God, long before the Scripture or Scriptural Rules were written and manifeſted.</p>
+            <p n="5">(5.) Neither are the Scrip<g ref="char:EOLhyphen"/>tures the <hi>only Rule,</hi> for they de<g ref="char:EOLhyphen"/>clare and teſtifie of the Law written in the Heart, and the <hi>Rule</hi> of <hi>a new Creature, Gal.</hi> 6.15.16. and as for the <hi>only Judge</hi> of
+<pb n="18" facs="tcp:102893:10"/>
+Doctrines, we know that the Scriptures are hard to be under<g ref="char:EOLhyphen"/>ſtood, and therefore Men in their Carnal Wiſdom, are put<g ref="char:EOLhyphen"/>ting their ſeveral meanings up<g ref="char:EOLhyphen"/>on one and the ſame <hi>Scripture,</hi> wherefore we ſay the Spirit of God is the Judge of Doctrines; becauſe he alone, who gave forth the Scriptures, beſt knows the meaning thereof: <hi>For the Spirit ſearcheth all things, yea, the deep things of God,</hi> 1 <hi>Cor.</hi> 2.10.</p>
+            <p>Anſwer, (6.) Neither yet do I believe that the Scriptures were the only means which <hi>Chriſt</hi> made uſe of to overcome and repel the Tempter in the Wilderneſs; for <hi>Satan</hi> allegd<g ref="char:EOLhyphen"/>d and pleaded Scripture, till he indeed took the <hi>Sword of the Spirit,</hi> even his Divine Power, and commanded him to be
+<pb n="19" facs="tcp:102893:10"/>
+gone, and ſaid, <hi>Get thee behind me Satan.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> 3. Though it is grant<g ref="char:EOLhyphen"/>ed, that <hi>Chriſt</hi> by his <hi>Light</hi> and <hi>Spirit</hi> is in every true <hi>Believer;</hi> yet we cannot believe him to be ſo in every Man, for <hi>Paul</hi> tells the <hi>Epheſians,</hi> that before their Converſion, they <hi>were with<g ref="char:EOLhyphen"/>out God,</hi> and without <hi>Chriſt in the World, Eph.</hi> 2.12. and the ſame <hi>Apoſtle</hi> bids others to exa<g ref="char:EOLhyphen"/>mine and prove themſelves, and to know that <hi>Jeſus Chriſt is in you, except you be Reprobates,</hi> 2 <hi>Cor.</hi> 13.5. whereby it appears, that <hi>
+                  <g ref="char:V">Ʋ</g>nbelievers</hi> and <hi>Reprobates,</hi> are without Chriſt.</p>
+            <p>Anſw. (1.) As to <hi>
+                  <g ref="char:V">Ʋ</g>nbelie<g ref="char:EOLhyphen"/>vers</hi> before Converſion, they are alienated from the <hi>Life</hi> and <hi>Light</hi> of Chriſt, and under the Powers of the <hi>Prince</hi> of Dark<g ref="char:EOLhyphen"/>neſs, nevertheleſs the true <hi>Light</hi>
+               <pb n="20" facs="tcp:102893:11"/>
+ſhines in this <hi>Darkneſs, but the Darkneſs comprehendeth it not, John</hi> 1.5. and I can truly wit<g ref="char:EOLhyphen"/>neſs to the Truth hereof, know<g ref="char:EOLhyphen"/>ing the time when I was with<g ref="char:EOLhyphen"/>out <hi>Chriſt</hi> and without <hi>God in the World, i. e.</hi> without the true knowledge of them, living as if there was no God, yea, with<g ref="char:EOLhyphen"/>out any awful regard to the Eye of God, yet I can as truly af<g ref="char:EOLhyphen"/>firm, that at that time the <hi>Light</hi> of Chriſt was in me, teſtifying againſt all mine Iniquities: And tho' this may ſeem to be a Miſte<g ref="char:EOLhyphen"/>ry, that a meaſure of his <hi>Light</hi> ſhould be in a Man; when that Man is without Chriſt, yet hav<g ref="char:EOLhyphen"/>ing experienced the truth here<g ref="char:EOLhyphen"/>of, do therefore teſtify, that it is one thing for the <hi>Light</hi> of Chriſt to be in a Man, and ano<g ref="char:EOLhyphen"/>ther thing for a Man to be in the <hi>Light</hi> of Chriſt; and therefore
+<pb n="21" facs="tcp:102893:11"/>
+affirm that the <hi>Light</hi> of Chriſt is in every Man, but no Man is in Chriſt Jeſus, till <hi>he be a new Creature.</hi>
+            </p>
+            <p>Anſw. (2.) And as to <hi>Repro<g ref="char:EOLhyphen"/>bates,</hi> ſuch as the Scripture te<g ref="char:EOLhyphen"/>ſtify, who have ſinned out the Day of Grace, done deſpight to the ſtrivings of the Spirit, as the old World did, ſuch as are complained of, <hi>Jer.</hi> 6.29. and ſuch as <hi>Stephen</hi> reproves, <hi>Acts</hi> 7.51. even ſuch as God hath given up, caſt off and rejected, yet doth not this prove, but that the <hi>Light</hi> and <hi>Spirit</hi> of Chriſt was once in them, and at work in their Hearts.</p>
+            <p>Anſw. (3.) And yet further, in the next place the <hi>Love of Chriſt conſtraineth us thus to Judge,</hi> becauſe if <hi>Chriſt died for all, then were all dead,</hi> 2 <hi>Cor.</hi> 5.14. and as Chriſt dyed for all
+<pb n="22" facs="tcp:102893:12"/>
+Men, ſo his grace is free for all Men, <hi>For the Grace of God which brings Salvation, hath appeared to all Men, Tit.</hi> 2.11. for he is able and willing to ſave all, that yeild obedience to the tenders of his boundleſs, endleſs, unlimi<g ref="char:EOLhyphen"/>ted, univerſal love to Mankind without exception, and this we are verily perſuaded of, from theſe and ſuch like conſiderati<g ref="char:EOLhyphen"/>ons.</p>
+            <p n="1">(1.) Becauſe the Lord is no reſpecter of Perſons, he maketh his Sun to riſe on the juſt, and on the unjuſt, and ſendeth Rain on the evil and on the good, he accepteth not the Perſons of Princes, nor regardeth the Rich more than the Poor, for they all are the work of his Hands.</p>
+            <p n="2">(2.) Becauſe that Light which ſhined in our dark, igno<g ref="char:EOLhyphen"/>rant, unclean and unbelieving
+<pb n="23" facs="tcp:102893:12"/>
+Hearts, before Converſion, is the very ſame in which we ought to live and abide ſince our Converſion; that which for<g ref="char:EOLhyphen"/>merly ſtood by, and in us, was an Eye witneſs too, and bore a faithful Teſtimony againſt us, while we walked in Darkneſs, is the ſame which ſince the time of our Believing and abiding in his Light, witneſſeth with our Spirits, that we are the Chil<g ref="char:EOLhyphen"/>dren of God. That very <hi>Light,</hi> which before reproved, con<g ref="char:EOLhyphen"/>vinced, judged and condemn<g ref="char:EOLhyphen"/>ed us, for all unbelief and un<g ref="char:EOLhyphen"/>righteouſneſs both in Heart and Life, is ſtill the ſame which doth convert, confirm, cleanſe, juſtify and ſave, yea, that <hi>Light</hi> which before ſhined in Dark<g ref="char:EOLhyphen"/>neſs, when we were as vile as the worſt of Sinners, doth now to the praiſe of God ſhine out
+<pb n="24" facs="tcp:102893:13"/>
+of Darkneſs, whereof we are not Aſhamed.</p>
+            <p n="3">(3.) Becauſe our Lord Jeſus who cannot lye, hath ſaid, that Man's Condemnation ariſeth only from the contempt of, and diſobedience unto this <hi>Light,</hi> ſaying, this is <hi>The Condemnation that</hi> Light <hi>is come into the World, but Men love darkneſs rather than light, John</hi> 3.19. Now moſt certain it is, that Man's Dam<g ref="char:EOLhyphen"/>nation is occaſioned from, <hi>viz.</hi> either want of <hi>Light,</hi> or thro' the deficiency of this <hi>Light,</hi> or rather from Man's Rebellion and diſobedience to this <hi>Light.</hi>
+            </p>
+            <p>Firſt, we may not think ſo hardly of God, that Man's Con<g ref="char:EOLhyphen"/>demnation ariſeth from the want of ſaving <hi>Light,</hi> this is to charge God with Injuſtice, as the evil and unprofitable Servant, ſaid, <hi>Lord I knew thee to be an Auſtere
+<pb n="25" facs="tcp:102893:13"/>
+and hard Man, reaping where thou haſt not Sown, and gathering where thou haſt not ſtrewed:</hi> And what greater Unmercifulneſs can be charged upon God? Than that he withholds from any Man the benefit of his ſaving <hi>Light,</hi> or withdraws it before Man's Rebellion againſt it.</p>
+            <p>And Secondly, 'Tis no leſs than Blaſphemy to ſay, that the <hi>Light</hi> of <hi>Chriſt</hi> is inſufficient, and not able to ſave all that come to God thereby, for tho' his appearance at firſt be as the day of ſmall things, as the leaſt of all Seeds, a little Stone, diſ<g ref="char:EOLhyphen"/>alowed and deſpiſed of Men, who ſtumble and are offended at him, yet choſen of God, and exceeding precious to all that Believe, who know him to be the Almighty Arm and Power of God to Salvation, the alſuf<g ref="char:EOLhyphen"/>ficiency
+<pb n="26" facs="tcp:102893:14"/>
+whereof, is further de<g ref="char:EOLhyphen"/>monſtrated by its Divine Nature and Powerful effects.</p>
+            <p n="1">(1.) The Nature of this Di<g ref="char:EOLhyphen"/>vine <hi>Light,</hi> in which we believe, and Know to be that meaſure of the immortal, unchangeable, undefiled and perfect Principle of <hi>Life, Light</hi> and <hi>Holineſs,</hi> which never fell, nor conſented to any Evil, but ever oppoſed and ſtood againſt the whole corrupt nature, will and affecti<g ref="char:EOLhyphen"/>ons of faln Man, (a Meaſure, I ſay hereof, is given to every one to profit withal) 1 <hi>Cor.</hi> 12.7. ſo that the <hi>Light</hi> I ſpeak of, is nothing of Man's Nature, but of the <hi>Divine Nature,</hi> whereof he hath made us partakers, by revealing his <hi>Son in us,</hi> even that great Miſtery, <hi>Chriſt in you the hope of Glory, the bleſſed Seed</hi> (promiſed <hi>Gen.</hi> 3.15.) yea, even
+<pb n="27" facs="tcp:102893:14"/>
+the <hi>Son of God, who is ſent into the World, that whoſoever believeth in him ſhould not periſh, but have Eternal Life.</hi>
+            </p>
+            <p n="2">(2.) The Effects of the <hi>Light,</hi> when <hi>Chriſt</hi> was upon Earth, <hi>John</hi> ſaw and bare Record, ſay<g ref="char:EOLhyphen"/>ing, <hi>Behold the Lamb of God, which taketh away the Sins of the World,</hi> and yet the Lord ſaid, <hi>A Greater Teſtimony have I, than that of John, for the Works that I do in my Fathers Name, they teſtifie of me;</hi> ſo we ſay of his <hi>Light,</hi> however ſlighted and de<g ref="char:EOLhyphen"/>ſpiſed by the World, if his Works be not ſuch as none elſe can do, believe him not.</p>
+            <p>
+               <hi>Effect</hi> (1.) Hereby the Sin<g ref="char:EOLhyphen"/>ner is convinced of, and con<g ref="char:EOLhyphen"/>demned for all Sins that ever he commiteth, of what kind or na<g ref="char:EOLhyphen"/>ture ſoever they be, <hi>John</hi> 16.8.9.10.11. <hi>Come</hi> (ſaid the <hi>Wo<g ref="char:EOLhyphen"/>man</hi>
+               <pb n="28" facs="tcp:102893:15"/>
+of <hi>Samaria) and I will ſhew you a Man that hath told me all things that ever I did: Is not this the Chriſt? John</hi> 4.29.</p>
+            <p>
+               <hi>Effect</hi> (2.) Hereby the true fear of the Lord, which is the <hi>beginning of Wiſdom,</hi> is actual<g ref="char:EOLhyphen"/>ly planted in the Heart, for while a Man in his Imaginations, ſup<g ref="char:EOLhyphen"/>poſes God and Chriſt only as circumſcribed at a great di<g ref="char:EOLhyphen"/>ſtance, he perſiſts with boldneſs in his evil ways; but when his mind is turned into the <hi>Light,</hi> he is thereby made to under<g ref="char:EOLhyphen"/>ſtand, and ſee his condition and miſery; and to ſee him whom he hath pierced, which forces this, or the like general Cry, Lord, <hi>I have heard of thee by the hearing of the Ear: But now mine Eye ſees thee, wherefore I abhor my ſelf in Duſt and Aſhes.</hi>
+            </p>
+            <p>
+               <pb n="29" facs="tcp:102893:15"/>
+               <hi>Effect</hi> (3.) This cauſeth not only repentance thorough Faith in Chriſt the <hi>Light;</hi> but alſo worketh in the Heart, <hi>Obedi<g ref="char:EOLhyphen"/>ence of Faith, Rom.</hi> 16.26.</p>
+            <p>
+               <hi>Effect</hi> (4.) Hereby Man's in<g ref="char:EOLhyphen"/>ſufficiency to anſwer the requi<g ref="char:EOLhyphen"/>rings of God is diſcerned, and the Alſufficient Strength and Power of Chriſt diſcovered: <hi>The Spirit of Truth ſhall guide you into all Truth, for he ſhall Glorifie me: For he ſhall receive of mine, and ſhew it unto you,</hi> John 16.13.14.</p>
+            <p>
+               <hi>Effect</hi> (5.) They who have believed and do abide in the <hi>Light,</hi> (and they only) are hereby enabled and made wil<g ref="char:EOLhyphen"/>ling, freely to declare and preach their experiences to others, and to confound, and put to ſilence the weakneſs, ignorance and folly, of all that reproach and oppoſe this Doctrine, as the il<g ref="char:EOLhyphen"/>literate
+<pb n="30" facs="tcp:102893:16"/>
+young Man did to the learned <hi>Scribes</hi> and <hi>Phariſees: Why this is a marvelous thing</hi> (ſaid he) <hi>that yee know not whence he is, and yet he hath open<g ref="char:EOLhyphen"/>ed my Eyes: Since the World be<g ref="char:EOLhyphen"/>gan was it not heard, that any Man opened the Eyes of one that was born Blind,</hi> J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hn, 9.30. wherefore let all who look out for another Saviour, remember the anſwer of <hi>Chriſt</hi> to <hi>John</hi> Baptiſt, on the like account, <hi>Go</hi> (ſaith Chriſt) <hi>and tell him that ſent ye to aſk,</hi> ſaying, <hi>art thou he, or look we for another? Tell him what ye have heard and ſeen; the Blind receive their ſight, the Deaf hear, the Lame walk, Lepers are cleanſed, and to the Poor the Goſpel is preached; and bleſſed is he whoſoever ſhall not be offended in me:</hi> Even ſo in a ſpiritual ſenſe, the ſame may be as truly
+<pb n="31" facs="tcp:102893:16"/>
+affirmed now of him the true <hi>Light,</hi> who is ſpiritually in the World, and the World knows him not, nor whence he is, tho' he hath enlightned, healed, cleanſed and quickned Thou<g ref="char:EOLhyphen"/>ſands; and the poor and wound<g ref="char:EOLhyphen"/>ed [whom none of the Proud Covetous Prieſts regard] even the Poor [by Virtue of the <hi>Light</hi>] have the Everlaſting <hi>Goſpel</hi> of Salvation freely preach<g ref="char:EOLhyphen"/>ed to them.</p>
+            <p>Object. (4.) But ye are a<g ref="char:EOLhyphen"/>gainſt all <hi>Goſpel</hi> Miniſters, Churches and God's Ordinan<g ref="char:EOLhyphen"/>ces <hi>(viz.)</hi> The <hi>Sacraments</hi> of Chriſt inſtituting, <hi>viz, Water Baptiſm</hi> and the <hi>Lord's Supper.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> (1.) As concerning Miniſters, all that are truly the Miniſters of the <hi>Goſpel,</hi> who are Miniſters of the <hi>Spirit</hi> we own, but all they whom the
+<pb n="32" facs="tcp:102893:17"/>
+Lord is againſt we deny, be<g ref="char:EOLhyphen"/>hold ſaith the Lord, <hi>I am againſt the Prophets that ſteal my words, every one from his Neighbour; and againſt them that uſe their Tongues, and ſay he ſaith: Who propheſie falſe Dreams, and do tell them, and cauſe my People to Err by their lies, and by their light<g ref="char:EOLhyphen"/>neſs, yet I ſent them not, nor commanded them; therefore they ſhall not profit this People at all, ſaith the Lord,</hi> Jer. 33.30.31.32.</p>
+            <p n="2">(2.) And we are againſt all ſuch who oppoſe, and ſet them<g ref="char:EOLhyphen"/>ſelves againſt the Lord, his Truth and People, ſuch as <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> declared againſt, <hi>They that ſtood up and gathered themſelves together againſt the Lord, and a<g ref="char:EOLhyphen"/>gainſt his Chriſt, Acts</hi> 4.26. ſuch as blaſpheme, falſly accuſe, and ſpeak evil of the <hi>Spirit</hi> and
+<pb n="33" facs="tcp:102893:17"/>
+               <hi>Light</hi> of <hi>Chriſt,</hi> of which the Lord ſaith, <hi>He that ſpeaketh a<g ref="char:EOLhyphen"/>gainſt the Holy Ghoſt, it ſhall not be forgiven him neither in this World, nor in the World to come,</hi> becauſe they ſaid, <hi>He had an <g ref="char:V">Ʋ</g>nclean Spirit, Mark</hi> 3.30.</p>
+            <p n="3">(3.) We are againſt all ig<g ref="char:EOLhyphen"/>norant and blind Guides, who know not God, believe not in Jeſus Chriſt, and to whom the <hi>Goſpel</hi> is hid, and ſuch are all they, who believe not in the <hi>Light,</hi> and denie <hi>Immediate Revelation,</hi> for ſaith Chriſt, <hi>No Man knows the Father, but they to whom the Son reveals him:</hi> And the Goſpel which <hi>Paul</hi> preached, he ſaith, It is not after Man, neither <hi>received he it of Man,</hi> nor was he <hi>taught it</hi> by Man, <hi>but by the Revelation of Jeſus Chriſt,</hi> Gal. 1.11, 12. but all who abide in Darkneſs and hate the Light,
+<pb n="34" facs="tcp:102893:18"/>
+unto ſuch the Goſpel is hid, 2 <hi>Cor.</hi> 4.3. Wherefore ſaith Chriſt, <hi>I thank the O Father, Lord of Heaven and Eurth, be<g ref="char:EOLhyphen"/>cauſe thou haſt hid theſe things from the Wiſe and Prudent, and haſt revealed them unto Babes, e<g ref="char:EOLhyphen"/>ven ſo Father, for ſo it ſeemed good in thy ſight: All things are delivered to me of my Father; and no Man knoweth the Son, but the Father, neither knoweth any Man the Father ſave the Son, and him to whomſoever the Son will reveal him, Mat.</hi> 11.26.27.</p>
+            <p n="4">(4.) We are againſt all ſuch, who [with <hi>Simon Magus,</hi> to maintain their Carnal Prieſt-craft, for filthy Lucres ſake] would <hi>Merchandize</hi> with, and ſet at ſale the free gift of God, and the Miſteries of his King<g ref="char:EOLhyphen"/>dom, whom <hi>Peter</hi> ſharply re<g ref="char:EOLhyphen"/>proves,
+<pb n="35" facs="tcp:102893:18"/>
+ſaying, <hi>Thy Mony periſh with thee, becauſe thou haſt thought the gift of God may be purchaſed with Mony, thou haſt neither part nor lot in this matter, for thy Heart is not right in the ſight of God, repent therefore of this thy Wickedneſs, and pray God if per<g ref="char:EOLhyphen"/>haps the thought of thy Heart may be forgiven thee, for I per<g ref="char:EOLhyphen"/>ceive thou art in the gall of bitter<g ref="char:EOLhyphen"/>neſs, and in the bond of Iniquity:</hi> Now if it be ſaid, this affects not the Miniſters you oppoſe? I anſwer, They either have the ſame thought, and ſo are in the <hi>Gall of Bitterneſs,</hi> or they have not; if they have not ſuch a thought, that the Gift of God may be purchaſed with Mony, then are they the vileſt <hi>Wretch<g ref="char:EOLhyphen"/>es,</hi> and greateſt ſelf condemned <hi>Cheats</hi> in the World; to ſet that at ſale for Mony, which
+<pb n="36" facs="tcp:102893:19"/>
+they eſteem the Gift of God, and <hi>which they know cannot be purcha<g ref="char:EOLhyphen"/>ſed</hi> with Mony, and this to de<g ref="char:EOLhyphen"/>lude Milions of Souls: But if they have ſuch a thought, then are they excluded with <hi>Simon Magus</hi> from having any part or lot in the Miniſtry, <hi>Acts</hi> 8.20.</p>
+            <p n="5">(5.) We are againſt all thoſe Teachers, who with <hi>Balaam,</hi> loving the Wages of Unrighte<g ref="char:EOLhyphen"/>ouſneſs, and Earthly Rewards, have forſaken the right way, and gone aſtray, and changed the <hi>Goſpel Miniſtry, Order</hi> and <hi>Worſhip,</hi> both as to Matter, Manner and Maintenance, from that which was practiſed by the <hi>Apoſtles,</hi> walking directly con<g ref="char:EOLhyphen"/>trary unto, and wholly pervert<g ref="char:EOLhyphen"/>ing the <hi>Apoſtles</hi> Doctrine, who ſaith, <hi>Feed the Flock of God, ta<g ref="char:EOLhyphen"/>king the overſight thereof, not by
+<pb n="37" facs="tcp:102893:19"/>
+conſtraint but willingly; nor for filthy Lucres ſake, but of a ready mind, neither as being lords over God's heritage, but as being ex<g ref="char:EOLhyphen"/>amples to the Flock.</hi>
+            </p>
+            <p n="6">(6.) We are againſt all ſuch Teachers, who with thoſe evil Spies, prejudice the People a<g ref="char:EOLhyphen"/>gainſt the good Land of Pro<g ref="char:EOLhyphen"/>miſe, <hi>Will neither enter into the Kingdom of God themſelves, nor ſuffer others that would to enter therein,</hi> Numb. 13.31. <hi>They brought up an evil report of the Land,</hi> ſaying, <hi>It is a Land that eateth up the Inhabitants thereof, and all the People that we ſaw in it, are Men of a great ſtature, and there we ſaw the Gyants, the Sons of Anak, which come of the Gy<g ref="char:EOLhyphen"/>ants, to whom we in our own ſight were as Graſhoppers, and ſo we were in their ſight, then all the Congregation murmured Crying,</hi>
+               <pb n="38" facs="tcp:102893:20"/>
+Deut. 1.28. <hi>whether ſhall we go? Our Brethren have diſcouraged our Hearts, ſaying, their Cities are great and walled up to Heaven, their Men mighty and ſtronger than we, even Giants, the Ana<g ref="char:EOLhyphen"/>kims, and we have heard ſay, who can ſtand againſt the Sons of A<g ref="char:EOLhyphen"/>nak?</hi>
+            </p>
+            <p>Even ſo this preſent genera<g ref="char:EOLhyphen"/>tion of Prieſts and Teachers, diſ<g ref="char:EOLhyphen"/>ſwade and diſcourage the Hearts of their People 1ſt. By their envying and bitter infectives againſt the good Land of Pro<g ref="char:EOLhyphen"/>miſe, the Spiritual Canaan, <hi>Chriſt</hi>'s Kingdom of <hi>Light</hi> and <hi>Righteouſnes.</hi> 2d. By magni<g ref="char:EOLhyphen"/>fying the Power and Domini<g ref="char:EOLhyphen"/>on of Sin, and Kingdom of Darkneſs, and ſuggeſting an impoſſibility of Conqueſt.</p>
+            <p n="1">(1.) They diſcourage and deter the Hearts of the People,
+<pb n="39" facs="tcp:102893:20"/>
+by belying and traducing the holy and bleſſed Appearance of <hi>Chriſt</hi>'s Spiritual Kingdom; e<g ref="char:EOLhyphen"/>ven as thoſe ſpies gave a falſe report of Temporal <hi>Canaan,</hi> contrary to the Character and Deſcription, the Lord by his Servants have given thereof, as appears in <hi>Deut.</hi> 8.7. <hi>Moſes</hi> ſaith, <hi>It is a good Land, a Land of Brooks of Water, of Fountains, and depths that ſpring out of Val<g ref="char:EOLhyphen"/>leys and Hills.</hi>
+            </p>
+            <p>Verſe 8. <hi>A Land of Wheat, and Barly, and Vines, and Fig-trees, and Pomegranates, a Land of Oyl Olive and Hony.</hi>
+            </p>
+            <p>Verſe 9. <hi>A Land wherein thou ſhalt eat Bread without ſcarceneſs, thou ſhalt not lack any thing in it, a Land whoſe Stones are Iron, and out of whoſe Hills thou may'ſt dig Braſs.</hi>
+            </p>
+            <p>
+               <pb n="40" facs="tcp:102893:21"/>Deut. 11.9. <hi>A Land that floweth with Milk and Hony.</hi>
+            </p>
+            <p>Verſe 10. <hi>It is not as the Land of Egypt, from whence ye came out, where thou ſowedſt thy Seed, and didſt carry Water to it, as to a Garden of Herbs.</hi>
+            </p>
+            <p>Verſe 11. <hi>But it is a Land of Hills and Valleys, and drinketh Water of the Rain of Heaven,</hi> (no need here of Man's Pump<g ref="char:EOLhyphen"/>ing, Draining or Forceing.)</p>
+            <p>Verſe 12. <hi>A Land which the Lord thy God careth for; the Eyes of the Lord thy God are al<g ref="char:EOLhyphen"/>ways upon it, from the begining of the Year, even to the end of the Year.</hi>
+            </p>
+            <p>And obſerve what a good ac<g ref="char:EOLhyphen"/>count <hi>Caleb</hi> and <hi>Joſhua</hi> gave of the Land, in the preſence of theſe Men who had brought up the aforeſaid evil report, to the jeopardy of their Lives.</p>
+            <p>
+               <pb n="41" facs="tcp:102893:21"/>
+               <hi>Numb.</hi> 14.7. <hi>It is</hi> (ſay they) <hi>an exceeding good Land, a Land that floweth with Milk and Hony,</hi> (and as for thoſe Gyants and mighty Men of ſtature, ſay they) <hi>fear not the People of the Land, they are bread for us,</hi> (and upon hearing of this) <hi>all the Congre<g ref="char:EOLhyphen"/>gation bad Stone them with Stones.</hi>
+            </p>
+            <p>Whereby it is very obſerva<g ref="char:EOLhyphen"/>ble, how readily the common People cloſe with, and embrace the evil ſuggeſtions of the Ene<g ref="char:EOLhyphen"/>my, and alſo how hard a thing it is, to undeceive ſuch as are prejudiced againſt the Truth; tho' grounded only upon bare report, and falſe accuſations; and thus the Hearts of People are perverted.</p>
+            <p n="2">(2.) And yet theſe Evil Men, do not only diſcourage the Hearts of the People, by de<g ref="char:EOLhyphen"/>ſpiſing
+<pb n="42" facs="tcp:102893:22"/>
+and Reproaching the good Land, but they alſo deter, and hinder them; by ſuggeſt<g ref="char:EOLhyphen"/>ing ſuch difficulties as poſſibly cannot be overcome, ſuch Ene<g ref="char:EOLhyphen"/>mies as never on this ſide the Grave can be conquered.</p>
+            <p>Altho' the Lord had graciouſ<g ref="char:EOLhyphen"/>ly promiſed a total ſubduing of all <hi>Iſrael</hi>'s Enemies.</p>
+            <p>
+               <hi>Deut.</hi> 11.22. Saying, <hi>If ye ſhall diligently keep all theſe com<g ref="char:EOLhyphen"/>mandments, which I command you to do them, to love the Lord your God, to walk in all his ways, and to cleave to him, then will the Lord drive out all theſe Nations from before you, and ye ſhall poſ<g ref="char:EOLhyphen"/>ſeſs greater Nations and mightier <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>han your ſelves, and there ſhall no Man be able to ſtand before you:</hi> All this and much more did the Lord promiſe to <hi>Iſrael</hi> of Old, concerning a perfect dominion
+<pb n="43" facs="tcp:102893:22"/>
+and victory over all their Ene<g ref="char:EOLhyphen"/>mies.</p>
+            <p>And in a more eſpecial man<g ref="char:EOLhyphen"/>ner, hath he promiſed an abſo<g ref="char:EOLhyphen"/>lute Conqueſt and Deliverance from the Kingdom and Powers of Darkneſs, to all that are Travelling to the Spiritual <hi>Ca<g ref="char:EOLhyphen"/>naan,</hi> even unto all that receive Jeſus Chriſt, that love him, believe in him, and obey his Voice.</p>
+            <p>John 1.7.9. <hi>They who walk in the Light, as he is in the Light, have fellowſhip one with another; and the Blood of</hi> Jeſus <hi>cleanſeth from all Sin, and if we confeſs, and forſake our Sins, God is faithful and juſt to for<g ref="char:EOLhyphen"/>give us our Sins, and to cleanſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> us from all <g ref="char:V">Ʋ</g>nrighteouſneſs.</hi>
+            </p>
+            <p>John 12.46. <hi>I am come</hi> (ſaith Chriſt) <hi>a Light into the World, that whoſoever believeth in me,
+<pb n="44" facs="tcp:102893:23"/>
+ſhould not abide in Darkneſs.</hi> And indeed for this very end, is our Lord Jeſus promiſed, ſent and manifeſted to put an end to Sin, to finiſh Tranſgreſſion, and bring in everlaſting Righteouſ<g ref="char:EOLhyphen"/>neſs, to deſtroy the works of the Devil; to bind the ſtrong Man (though never ſo well ar<g ref="char:EOLhyphen"/>med) to caſt him out and ſpoil his Goods, not in part, but to ſave even to the uttermoſt, all that come to the Father by him.</p>
+            <p>But theſe Men do not only refuſe and deſpiſe the Land of Promiſe, and the only way to Life and Salvation, but hinder and ſhut up the Kingdom, that others who would enter in can<g ref="char:EOLhyphen"/>not; yea they deny the only means of eternal Salvation, by their confidently affirming that Revelation is ceaſed, whereas
+<pb n="45" facs="tcp:102893:23"/>
+our Lord Jeſus hath declared, and all the Faithful Servants of God in all Ages bear witneſs, <hi>That none know the Father, but he to whom the Son reveals him.</hi>
+            </p>
+            <p n="7">(7.) And we are againſt all thoſe who are, and have with <hi>Judas</hi> [through envy and ava<g ref="char:EOLhyphen"/>rice] been the betrayers of the Intereſt, and cauſe of Chriſt, and People of God, into the Merci<g ref="char:EOLhyphen"/>leſs Hands of cruel Perſecutors, who will not yet ſee, <hi>But</hi> [ſaith the Lord] <hi>they ſhall ſee and be aſhamed for their envy againſt my People;</hi> Of theſe, therefore I ſhall only ſay with <hi>Jacob, Sime<g ref="char:EOLhyphen"/>on and Levi are Brethren, Inſtru<g ref="char:EOLhyphen"/>ments of cruelty are in their Ha<g ref="char:EOLhyphen"/>bitations; O my Soul come not thou into their Secret, unto their aſſembly, mine honour, be not thou united, for in their Anger they ſhed much Blood, and in their
+<pb n="46" facs="tcp:102893:24"/>
+ſelf-will they digged down a Wall,</hi> Gen. 49.</p>
+            <p>But the Miniſters of Chriſt, whom he has ſent as his Am<g ref="char:EOLhyphen"/>baſſadors we own, and none elſe; if you ſay who are they? I anſwer, they who have re<g ref="char:EOLhyphen"/>ceived their Commiſſion and Embaſſie from Chriſt, for ſaith he to his Father, <hi>As thou ſent me, ſo have I ſent them into the World,</hi> and to his <hi>Diſciples</hi> he ſaid, <hi>As the Father ſent me into the World, even ſo ſend I you into the World,</hi> John 17.</p>
+            <p n="1">1ſt. Chriſt was the Son of God, and a Voice from <hi>Heaven</hi> teſtified, ſaying, <hi>This is my be<g ref="char:EOLhyphen"/>loved Son in whom I am well pleaſ<g ref="char:EOLhyphen"/>ed, hear him,</hi> 2ly. he was im<g ref="char:EOLhyphen"/>meaſurably anointed with the Spirit, 3d. by Vertue of his Sonſhip and Unction, he endu<g ref="char:EOLhyphen"/>red and conquered all the Aſ<g ref="char:EOLhyphen"/>ſaults
+<pb n="47" facs="tcp:102893:24"/>
+and Temptations of <hi>Sa<g ref="char:EOLhyphen"/>tan,</hi> and 4ly. he went out and preached the Goſpel, and 5ly. that Doctrine which he had preached and witneſſed to in his Life, he confirmed and ſealed by his Death in his Blood. So are all true Miniſters in their meaſure, Children of God, his anointed ones fitted through Sufferings, to preach the Doc<g ref="char:EOLhyphen"/>trine of the Goſpel in the Life &amp; Power of the Eternal <hi>Word,</hi> and thereby made ready to <hi>Seal there<g ref="char:EOLhyphen"/>to with their Blood</hi> if required.</p>
+            <p>Anſw. (2.) As concerning Churches, we believe that the Lord had a Church and peculi<g ref="char:EOLhyphen"/>er People, whom he hath pre<g ref="char:EOLhyphen"/>ſerved through all Ages from the beginning to this preſent time, in and with whom he will alſo abide for ever, and this Church we own, which is in
+<pb n="48" facs="tcp:102893:25"/>
+               <hi>The Communion of Saints one with another in the things of God, through their Vnion with Ieſus Chriſt;</hi> which differs from the Churches of Men, 1ſt. In their conſtitu<g ref="char:EOLhyphen"/>tion, not gathered by Force, Fear, Favour or Will of Man, but drawn of the Father, a<g ref="char:EOLhyphen"/>dopted through the new Birth, and ſo become a Spiritual Socie<g ref="char:EOLhyphen"/>ty, firſt united to Chriſt by the Spirit of Faith, and then knit together by the Bond of Love and Peace, 2ly. in their Diſci<g ref="char:EOLhyphen"/>pline, not by a Temporal Sword, nor by humane Officers, that act in the ſtrength of natural or acquired parts, but built, beau<g ref="char:EOLhyphen"/>tified and governed by Chriſt himſelf, <hi>Iſa.</hi> 54.12. <hi>Zach.</hi> 6.12. and by Inſtruments helped, ſo far as the Spirit of Jeſus Chriſt acts in them, 2 <hi>Cor.</hi> 13.3.</p>
+            <pb n="49" facs="tcp:102893:25"/>
+            <p n="3">in the Church of Chriſt all are taught of God, <hi>Iſaiah</hi> 54.13. <hi>Tit.</hi> 2.11. 1 <hi>John</hi> 2.27. 4ly. the Churches of Men are of<g ref="char:EOLhyphen"/>ten broken to pieces, ſcatered and confounded, <hi>But the Gates</hi> (which is the Power) <hi>of Hell ſhall never prevail againſt the true Church, Mat.</hi> 16.18. 5ly. in the Churches of Men are more Wicked than Righteous; nay, all of them being unrigh<g ref="char:EOLhyphen"/>teous and unclean, are more or leſs the <hi>Synagogues of Satan,</hi> the <hi>Habitation of Anti-chriſt;</hi> and have been, yet are, and while in their carnal Sinful State, will be Perſecutors of the true Church, <hi>Gal.</hi> 4.29. but in the true Church they are all Righteous, <hi>Iſaiah</hi> 60. from the 1ſt. to the 20th. and hereof it may be tru<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y ſaid, <hi>Who is like thee, O People ſaved by the Lord, the Shield of
+<pb n="50" facs="tcp:102893:26"/>
+thy help, and the Sword of thine Excellency? Thine Enemies ſhall be found Liars unto thee, and thou ſhalt tread upon their high-places,</hi> yea, this poor, deſpiſed, perſecuted Flock, <hi>are the Tem<g ref="char:EOLhyphen"/>ples of the Holy Ghoſt,</hi> 2 <hi>Cor.</hi> 6.16.</p>
+            <p>And the Body of Chriſt, <hi>Eph.</hi> 4.4. in which Body, 1ſt. there is but one Head, 2ly. there is not one dead Member, 1 <hi>Pet.</hi> 2.4.5. 3ly. there is no Law of force, but every Member acteth by the Law of Love, 4ly. all Members united into this, Body ſympathize one with another both in Comfort and Afflictions pleaſe therefore to ſee, 1 <hi>Cor</hi> 12.25. This <hi>One Body</hi> is unite<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by <hi>one Spirit,</hi> into <hi>one Hope,</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>one Lord,</hi> and hath but <hi>one Fai<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and <hi>one Baptiſm, Eph.</hi> 4. <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which <hi>one Baptiſm,</hi> leads me <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="51" facs="tcp:102893:26"/>
+Anſwer the third Branch of the laſt Objection.</p>
+            <p>Anſw. (3.) As concerning Ordinances in General, 1ſt. The Scripture calls nothing Sin, or any thing Practical, but that which is prohibited, or expreſly commanded by the great Le<g ref="char:EOLhyphen"/>giſlator; neither ſhall any be ſaved, or are to be judged in Spiritual matters, by any Law, but by the Law of God, or by any Lawgiver, but by Jeſus Chriſt, <hi>He that ſpeaketh evil of his Brother, and judgeth his Bro<g ref="char:EOLhyphen"/>ther, ſpeaketh evil of the Law, and judgeth the Law, thou art not a doer of the Law, but a judgé,</hi> James 4.12. <hi>There is one Law<g ref="char:EOLhyphen"/>giver, who is able to ſave and to deſtroy,</hi> and Iſa. 33.22. <hi>The Lord is our Judge, the Lord is our Lawgiver, the Lord is our King, he will ſave us,</hi> Col. 2.
+<pb n="52" facs="tcp:102893:27"/>
+16. <hi>let no Man therefore judge you in meat or drink,</hi> &amp;c. which were a ſhadow of things to come, but the Body is of Chriſt, wherefore if ye be dead with Chriſt, from the Rudiments of the World, why, as tho' liv<g ref="char:EOLhyphen"/>ing in the World, are ye ſub<g ref="char:EOLhyphen"/>ject to Ordinances? <hi>Touch not, Taſte not, Handle not, which all periſh with the uſing, after the commandments and doctrines of Men; Touch not, Taſte not, Han<g ref="char:EOLhyphen"/>dle not, which things indeed have a ſhew of wiſdom in will-Worſhip,</hi> &amp;c. <hi>all which periſh in the uſing,</hi> 2ly. the Scriptures reject all Re<g ref="char:EOLhyphen"/>ligious performances, that are done without warrant from Heaven, <hi>Iſa.</hi> 1.12. <hi>When ye come to appear before me, who hath requir'd this at your hands to tre<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> my Courts? Bring no more va<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Oblations, Incenſe is an Abom<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>nation
+<pb n="53" facs="tcp:102893:27"/>
+to me,</hi> &amp;c. and <hi>Micah</hi> 6.6, 7, 8, 3ly. the Scriptures de<g ref="char:EOLhyphen"/>clare that all outward <hi>Ordinan<g ref="char:EOLhyphen"/>ces,</hi> are Temporary; only till the time of <hi>Reformation,</hi> and to be aboliſhed by Chriſt, <hi>Heb.</hi> 9.1. to 14. <hi>Col.</hi> 2.6. to the end, <hi>Eph.</hi> 2.15. 4ly. the Scrip<g ref="char:EOLhyphen"/>tures ſhew us, that the outward aboliſhed Ordinances, and the Traditions of Men, hinder and prevent Obedience to Chriſt, and Submiſſion to the will and commands of God; <hi>This is the will of God even your Sanctifi<g ref="char:EOLhyphen"/>cation,</hi> 1 <hi>Theſ.</hi> 4.3. <hi>this is the work of God,</hi> (or the work he requires, ſaith Chriſt) <hi>that ye believe on him, whom he hath ſent,</hi> John 6.28. <hi>And this is the com<g ref="char:EOLhyphen"/>mandment</hi> (ſaith <hi>John) that we ſhould believe in the Name of his Son Jeſus Chriſt, and love one another, as he hath given us com<g ref="char:EOLhyphen"/>mand:</hi>
+               <pb n="54" facs="tcp:102893:28"/>
+But alas! how is the work of God laid aſide, his will and commands neglected, and the <hi>beggerly Rudiments</hi> and <hi>Ele<g ref="char:EOLhyphen"/>ments</hi> of this World pleaded for, and maintained; and moſtly by ſuch, who reject the command of God and Chriſt, that for ſecular ends, keep and obſerve their pretended Ordi<g ref="char:EOLhyphen"/>nances, and make the Word of God of none effect, by their Traditions, <hi>Mark</hi> 7.5. to 13. <hi>Mat.</hi> 23.23. 5ly. as Man can<g ref="char:EOLhyphen"/>not be polluted or defiled, by that which is without him, no more doth any thing, be it what it can, <hi>Bread,</hi> or <hi>Wine,</hi> or <hi>Water,</hi> from without, cleanſe or comfort the inward Man, according to <hi>Mark</hi> 7.14. to 23. 6ly. nor yet in matters of Faith and Worſhip, are we to receive
+<pb n="55" facs="tcp:102893:28"/>
+our Meaſures or Rules from Councils or Synods, or the beſt of Men, further than the ex<g ref="char:EOLhyphen"/>preſs command of the Lord for their warrant, <hi>Moſes</hi> had no Authority to inſtitute any Laws or Ordinances, but to teach the People Obedience to thoſe God had preſcribed, <hi>Exodus</hi> 24.12. and Chriſt's Commiſſion to the <hi>Apoſtles</hi> was, go <hi>Teach them to obſerve whatſoever I have com<g ref="char:EOLhyphen"/>manded you, and Lo I am with you to the end of the Word,</hi> Mat. 28.20.</p>
+            <p>And now more particularly, concerning the two <hi>Sacraments</hi> (ſo called) and firſt, touching <hi>Baptiſm,</hi> or rather <hi>Baptiſms,</hi> for there be many, we read of di<g ref="char:EOLhyphen"/>vers ſorts of <hi>Waſhings</hi> or <hi>Bapti<g ref="char:EOLhyphen"/>zings,</hi> as the <hi>Baptizing</hi> of Pots and Cups (for ſo it is in the <hi>Greek) Mark</hi> 7.8. and we read
+<pb n="56" facs="tcp:102893:29"/>
+of the Doctrine of <hi>Baptiſms, Heb.</hi> 6.2. and now concerning <hi>John</hi>'s <hi>Baptiſm,</hi> which in its time was not only New, but mighty Fa<g ref="char:EOLhyphen"/>mous; inſomuch that the Peo<g ref="char:EOLhyphen"/>ple muſed, and were all in ex<g ref="char:EOLhyphen"/>pectation, whether <hi>John</hi> were not the Chriſt, but he confeſſed that he was but a fore-runner, and that his <hi>Baptiſm</hi> was weak and imperfect, and temporary, an elementary Figure and Sha<g ref="char:EOLhyphen"/>dow of <hi>Chriſt</hi>'s Powerful Spiri<g ref="char:EOLhyphen"/>tual and Saving <hi>Baptiſm;</hi> from hence its evident, that the <hi>Bap<g ref="char:EOLhyphen"/>tiſm</hi> of <hi>John,</hi> and the <hi>Baptiſm</hi> of <hi>Chriſt,</hi> are, and ever was, two diſtinct <hi>Baptiſms;</hi> and as the Heavens are high above the Earth, ſo vaſt a difference is be<g ref="char:EOLhyphen"/>twixt them.</p>
+            <p n="1">(1.) They are two in Name, <hi>Apollos an Eloqent Man, and mighty in the Scriptures, knew
+<pb n="57" facs="tcp:102893:29"/>
+only the</hi> Baptiſm <hi>of</hi> John, <hi>to whom</hi> Aquilla <hi>and</hi> Priſcilla <hi>ex<g ref="char:EOLhyphen"/>pounded the way more perfectly,</hi> Acts 18.25.</p>
+            <p n="2">(2.) They differ in time; <hi>He that comes after me ſhall Baptize you with the Holy Ghoſt,</hi> Mat. 3.11. and ſaid Chriſt, <hi>John Baptized with Water, but ye ſhall be Baptized with the Holy Ghoſt, not many days hence.</hi>
+            </p>
+            <p n="3">(3.) They are <hi>two</hi> in Na<g ref="char:EOLhyphen"/>ture; the one a <hi>created, viſible Element,</hi> the other an <hi>holy, in<g ref="char:EOLhyphen"/>viſible quickening Spirit.</hi>
+            </p>
+            <p n="4">(4.) They differ in their Ef<g ref="char:EOLhyphen"/>fects; <hi>John</hi>'s reacheth only to the outſide, the <hi>Spirit's Baptiſm</hi> cleanſeth the Soul and Conſci<g ref="char:EOLhyphen"/>ence.</p>
+            <p n="5">(5.) <hi>John</hi>'s <hi>Baptiſm</hi> was but a Sign, a Shadow, and a Legal Ceremony; but the <hi>Baptiſm</hi> of the <hi>Spirit,</hi> is the Subſtance and
+<pb n="58" facs="tcp:102893:30"/>
+the Truth, of that which <hi>Wa<g ref="char:EOLhyphen"/>ter</hi> typified.</p>
+            <p n="6">(6.) <hi>John</hi>'s <hi>Water Baptiſm</hi> was Temporary, of ſhort dura<g ref="char:EOLhyphen"/>tion and continuance, as all Le<g ref="char:EOLhyphen"/>gal Signs and Ceremonies had an end, ſo this being nearer the Truth and Subſtance, and to the day of Chriſt than they, was of leſs continuance, and being a ſhadow, muſt fly a<g ref="char:EOLhyphen"/>way by the glorious riſing and brightneſs of his Son: And ſo <hi>John</hi>'s <hi>Baptiſm</hi> was of uſe a lit<g ref="char:EOLhyphen"/>tle before <hi>Chriſt</hi>'s manifeſtati<g ref="char:EOLhyphen"/>on in the Fleſh, and was to continue till his <hi>Aſcenſion;</hi> and then when <hi>Chriſt</hi>'s <hi>Baptiſm</hi> began, the ſhadow muſt by de<g ref="char:EOLhyphen"/>grees decreaſe and vaniſh, and give way to the Subſtance, the Sign aboliſhed, and the Truth exalted, the <hi>Letter</hi> reſigns to the <hi>Spirit,</hi> the Servant to the
+<pb n="59" facs="tcp:102893:30"/>
+Son: So that <hi>Chriſt</hi>'s <hi>Fire Bap<g ref="char:EOLhyphen"/>tiſm</hi> put an end to <hi>John</hi>'s <hi>Water Baptiſm,</hi> for as all the Prophets were until <hi>John,</hi> ſo <hi>John</hi> was until <hi>Chriſt;</hi> and <hi>John</hi> muſt no more exceed his bounds, than the <hi>Prophets</hi> theirs; for as the <hi>Prophets</hi> continued and gave way to <hi>John,</hi> ſo <hi>John</hi> reſigned up to <hi>Chriſt. John</hi>'s Tempo<g ref="char:EOLhyphen"/>rary <hi>Miniſtry</hi> had a Temporary <hi>Baptiſm,</hi> but the Everlaſting Goſpel of <hi>Chriſt Jeſus,</hi> had an Everlaſting <hi>Baptiſm, I muſt de<g ref="char:EOLhyphen"/>creaſe, but he ſhall increaſe,</hi> ſaith <hi>John,</hi> therefore we leave <hi>John</hi> and his <hi>Baptiſm</hi> where we found them, <hi>(viz.) <hi>Without the bounds and limits of Chriſt's Kingdom</hi>
+               </hi> (as to his diſpenſa<g ref="char:EOLhyphen"/>tion) <hi>Mat.</hi> 11.11. <hi>Verily I ſay unto you, among them that are born of Women, there hath not riſen a greater Prophet than John
+<pb n="60" facs="tcp:102893:31" rendition="simple:additions"/>
+Baptiſt, nevertheleſs, he that is leaſt in the Kingdom of Heaven, is greater than he; and if ye will receive it, this is the Elias which was for to come.</hi>
+            </p>
+            <p>But now to bring <hi>Signs</hi> and <hi>Ceremonies</hi> into <hi>Chriſt</hi>'s King<g ref="char:EOLhyphen"/>dom <hi>(the true Church)</hi> is act<g ref="char:EOLhyphen"/>ing directly againſt <hi>Chriſt,</hi> and him crucified; and ſurely none are ſo weak as to rely upon <hi>Wa<g ref="char:EOLhyphen"/>ter Baptiſm,</hi> as ſufficient (which I fear many Thouſands do) without the Sactification of the Spirit, or to think that <hi>Chriſt</hi>'s Spiritual <hi>Baptiſm</hi> is not com<g ref="char:EOLhyphen"/>pleat with <hi>John</hi>'s; theſe do worſe than to build Tabernacles for <hi>Moſes,</hi> and <hi>John</hi> the Baptiſt, equal to one for <hi>Chriſt;</hi> and ſo debaſe the greateſt Glory of the <hi>New Teſtament,</hi> the <hi>Baptiſm</hi> of the <hi>Spirit.</hi>
+            </p>
+            <p>
+               <pb n="61" facs="tcp:102893:31"/>
+               <hi>Object.</hi> (1.) But have all our Chriſtian fore-Fathers been in the dark about this Thing, that <hi>Water Baptiſm</hi> which gives us our Chriſtendome, hath no room now in the Church, and Kingdom of <hi>Chriſt?</hi>
+            </p>
+            <p>Anſw. (1.) <hi>The Judgments of the Lord are unſearchable, and his ways paſt finding out,</hi> (2.) that Chriſtianity which pro<g ref="char:EOLhyphen"/>ceeds from <hi>Water Baptiſm,</hi> is but low and mean, it is but <hi>Skin deep:</hi> However, it is only the <hi>Baptiſm</hi> of <hi>Chriſt</hi>'s <hi>Spirit</hi> which maketh a true Chriſti<g ref="char:EOLhyphen"/>an. Alſo our Lord ſaid to <hi>Pe<g ref="char:EOLhyphen"/>ter, <g ref="char:V">Ʋ</g>nleſs I waſh thee, thou haſt no part in me,</hi> John 13.8. even ſo it is with us, unleſs we be ſanctified and cleanſed by the Spirit of <hi>Jeſus,</hi> we ſhall periſh our Uncleanneſs.</p>
+            <p>
+               <pb n="62" facs="tcp:102893:32"/>
+               <hi>Object.</hi> (2.) But Chriſt who is Lord of the Kingdom, and Head of the true Church, ſub<g ref="char:EOLhyphen"/>mitted to this Ordinance, and was baptized with <hi>Water.</hi>
+            </p>
+            <p>I Anſwer, very true; and <hi>Jeſus</hi> was alſo circumciſed, and honoured <hi>John</hi>'s <hi>Baptiſm,</hi> (1.) becauſe he was born under the Law, (2.) to fulfiill and finiſh all legal Righteouſneſs; and ſo he that knew no Sin, was made <hi>Sin</hi> for us, <hi>That we might be made the Righteouſneſs of God in him,</hi> wherefore <hi>beware leaſt any ſpoil you through Philoſophy and vain Deceit, after the Traditi<g ref="char:EOLhyphen"/>ons of Men, after the Rudiments of this World, and not after Chriſt,</hi> for he is the Subſtance, and <hi>in him dwelt the fulneſs of the Godhead bodily, <hi>And ye are Compleat in Him,</hi> in whom alſo ye are circumciſed with the
+<pb n="63" facs="tcp:102893:32"/>
+Circumciſion made without hands, in putting off the body of the Sins of the Fleſh, by the Circumciſion of Chriſt, <hi>Buried with Him in Baptiſm, wherein alſo ye are Riſen with Him,</hi> through the Faith of the operation of God, — blotting out the hand writing of Ordinances, which was againſt us, and contrary to us, and took it out of the way, nailing it to the Croſs, and having ſpoiled Principalities and Powers, he made a ſhew of them openly, Triumphing over them in it,</hi> Col. 2.8. to 15.</p>
+            <p>
+               <hi>Object.</hi> (3.) But does not the Lord juſtifie <hi>Water Baptiſm,</hi> in ſaying, <hi>Except a Man be born of Water, John</hi> 3.5. and com<g ref="char:EOLhyphen"/>mands it, <hi>Go teach all Nations Baptizing them,</hi> &amp;c.</p>
+            <p>Anſw. Not at all, for the Lord does not ſay, Except a Man be <hi>baptized of Water,</hi> but
+<pb n="64" facs="tcp:102893:33"/>
+               <hi>born of Water,</hi> whence it plain<g ref="char:EOLhyphen"/>ly appears, ſuch <hi>Water</hi> is here intended, as can give a new Birth, or a new Life; And ſaith he, <hi>if thou hadſt known the Gift of God, thou wouldſt have asked of him, and he would have given thee Living Water.</hi> And ſo all that are regenerated, know this Well of Living Water, and witneſs it to be in them, ſpring<g ref="char:EOLhyphen"/>ing up to Everlaſting Life, <hi>John</hi> 4.14. and I have long obſerved when <hi>Baptiſm</hi> in Scriprure is mentioned, preſently it is by ſome aſſigned, and confined to <hi>Water Baptiſm;</hi> whereas no<g ref="char:EOLhyphen"/>thing leſs can be intended, as <hi>Mat.</hi> 28.19. there is <hi>Chriſt</hi>'s Commiſſion to his <hi>Apoſtles, Go teach all Nations baptizing them;</hi> how, or wherewith? 'Tis ſoon anſwered with Material <hi>Water;</hi> but we ſay Material <hi>Water</hi> is
+<pb n="65" facs="tcp:102893:33"/>
+not mentioned, and no more intended in this <hi>Baptiſm,</hi> than the material Element of <hi>Fire</hi> is meant in theſe Words, <hi>He ſhall baptize you with the holy Ghoſt and with Fire,</hi> Mat. 3.11. and therefore in full anſwer to this laſt <hi>Objection,</hi> I ſay, that our Lord Jeſus never practiſed, in<g ref="char:EOLhyphen"/>ſtituted, or commanded the <hi>uſe of Water Baptiſm</hi> in his Church, <hi>John,</hi> 4.3. Jeſus our Lord com<g ref="char:EOLhyphen"/>manded to <hi>Baptize, (Mat.</hi> 28.19.) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>into the Name,</hi> of the Father, and of the Son, and of the Holy Ghoſt. Here is the Commiſſion at large, and not a word of <hi>Water</hi> mentioned, neither doth it appear, that theſe words, <hi>In the Name of the Father, and of the Son, and of the Holy Ghoſt,</hi> was at any time expreſſed by the <hi>Apoſtles,</hi> when they, or any of them con<g ref="char:EOLhyphen"/>deſcended
+<pb n="66" facs="tcp:102893:34"/>
+to the uſe of <hi>Water,</hi> for they underſtand the import of their Embaſſie conſiſted not in the uſe of thoſe words, but that by the effectual miniſtrati<g ref="char:EOLhyphen"/>on of the Word of <hi>Faith,</hi> they might implant ſuch as believe, <hi>into the Name,</hi> i. e. the Power, Vertue and Life of God the Fa<g ref="char:EOLhyphen"/>ther, Son and Spirit: Beſides <hi>Paul</hi> whoſe Commiſſion was as full as the other <hi>Apoſtles,</hi> ſpeak<g ref="char:EOLhyphen"/>ing of <hi>Water Baptiſm,</hi> ſaith thus, <hi>Chriſt ſent me not to Baptize, but to Preach the Goſpel,</hi> 1 <hi>Cor.</hi> 1.17.</p>
+            <p>
+               <hi>Object.</hi> (4.) But the <hi>Apoſtles</hi> practiſed <hi>Water Baptiſm,</hi> not only before <hi>Chriſt</hi>'s Spiritual <hi>Baptiſm</hi> came in, but afterwards alſo.</p>
+            <p>Anſw. It is granted, and they uſed Circumciſion alſo, but nei<g ref="char:EOLhyphen"/>ther of theſe practices were in
+<pb n="67" facs="tcp:102893:34"/>
+obedience to any command of Chriſt, but from the Example of <hi>Moſes</hi> and <hi>John Baptiſt;</hi> and in condeſcention, for certain it is, all, and every outward Sign or Ceremony, having at firſt <hi>Divine Inſtitution,</hi> are not eaſily laid down, by reaſon of that Honourable Account they have obtained in the Church; as the brazen <hi>Serpent,</hi> the uſe where<g ref="char:EOLhyphen"/>of was only in the Wilderneſs; but being appointed of God, and very Serviceable in that time, yet it remained many Generations, though of no uſe, unleſs for an <hi>Idol,</hi> till the Reign of <hi>Hezekiah,</hi> who broke in pieces the brazen <hi>Serpent</hi> which <hi>Moſes</hi> had made, <hi>for unto thoſe days the Children of Iſrael did burn Incenſe unto it:</hi> In like manner, Circumciſion being en<g ref="char:EOLhyphen"/>ded, an Ordinance of God, of
+<pb n="68" facs="tcp:102893:35"/>
+great eſteem and ſervice a<g ref="char:EOLhyphen"/>mongſt the <hi>Jews,</hi> was continu<g ref="char:EOLhyphen"/>ed long after it was aboliſhed by Chriſt; but the <hi>Apoſtle</hi> affirms of it to be nothing (even as it's ſaid in another place, <hi>an Idol is nothing in the World</hi>) ſo ſays <hi>Paul, Circumciſion is nothing, and <g ref="char:V">Ʋ</g>ncircumciſion is nothing; nor is he a</hi> Jew <hi>that is one out<g ref="char:EOLhyphen"/>wardly, neither is that Circumci<g ref="char:EOLhyphen"/>ſion which is outward in the Fleſh, but he is a</hi> Jew <hi>which is one in<g ref="char:EOLhyphen"/>wardly, and Circumciſion is that of the Heart in the Spirit, and not in the Letter, whoſe Praiſe is of God and not of Man, Rom.</hi> 2.28. wherefore we affirm, that he is not a Chriſtian, who is one <hi>outwardly</hi> only, neither is that (the) <hi>Baptiſm,</hi> which is with <hi>Water;</hi> but he is a Chriſti<g ref="char:EOLhyphen"/>an who is one <hi>inwardly,</hi> and the <hi>one Baptiſm</hi> is that of the Heart
+<pb n="69" facs="tcp:102893:35"/>
+in the Spirit, for ſaith the A<g ref="char:EOLhyphen"/>poſtle, 1 <hi>Pet.</hi> 3.21. <hi>The Bap<g ref="char:EOLhyphen"/>tiſm which doth ſave us, is not an outward waſhing, or putting away the filth of the Fleſh, but the an<g ref="char:EOLhyphen"/>ſwer of a good Conſcience towards God, through the Reſurrection of the Lord Jeſus Chriſt.</hi>
+            </p>
+            <p>And thus much for <hi>Water Baptiſm,</hi> which the Scriptures call <hi>John</hi>'s <hi>Baptiſm,</hi> and belong<g ref="char:EOLhyphen"/>ed to that middle Miniſtry, be<g ref="char:EOLhyphen"/>tween the <hi>Prophets</hi> and <hi>Chriſt;</hi> but the <hi>Baptiſm</hi> of the <hi>Spirit,</hi> which is <hi>Chriſt</hi>'s, we own and know, and with evident de<g ref="char:EOLhyphen"/>monſtrations of Truth, declare and teſtify the one and only <hi>Baptiſm</hi> of the <hi>new Teſtament,</hi> and <hi>by one Spirit, we are all bap<g ref="char:EOLhyphen"/>tized into one Body,</hi> (ſaith the <hi>Apoſtle) whether we be Jews or Gentiles, Bond or Free, and have been all made to drink into one Spi<g ref="char:EOLhyphen"/>rit,</hi> 1 <hi>Cor.</hi> 12.13.</p>
+            <p>
+               <pb n="70" facs="tcp:102893:36"/>And this <hi>Baptiſm</hi> was but one in all Ages and Generations, even the very ſame before <hi>Chriſt</hi>'s coming in the Fleſh, as ſince; Believing Jews and Gen<g ref="char:EOLhyphen"/>tiles, both of the <hi>old</hi> and <hi>new Te<g ref="char:EOLhyphen"/>ſtament</hi> were made partakers of it; though the one more fully than the other; ſo that altho' many, both before and ſince, might not have the <hi>Baptiſm</hi> of <hi>Water,</hi> yet not one Member of the true Church hath ever wanted the <hi>Baptiſm</hi> of the <hi>Spi<g ref="char:EOLhyphen"/>rit.</hi>
+            </p>
+            <p>But the more apparent <hi>mani<g ref="char:EOLhyphen"/>feſtation</hi> of this Spiritual <hi>Bap<g ref="char:EOLhyphen"/>tiſm,</hi> followed after that of <hi>John</hi>'s <hi>Baptiſm,</hi> as appears by the promiſe of <hi>Chriſt, He that believeth on me, out of his Belly ſhall flow Rivers of Living Wa<g ref="char:EOLhyphen"/>ter, this ſpake he of the Spirit, which they who believe on him
+<pb n="71" facs="tcp:102893:36"/>
+ſhould receive, for the Holy Ghoſt was not yet given, becauſe that Jeſus was not yet glorified,</hi> John 7.38.39. wherefore the Diſ<g ref="char:EOLhyphen"/>ciples <hi>waited at</hi> Jeruſalem (as the Lord had commanded) <hi>un<g ref="char:EOLhyphen"/>till the promiſe was fulfiled,</hi> Acts 1.</p>
+            <p>Now the ground of our true Comfort lies in that we are <hi>baptized</hi> (not with the ſame <hi>Water,</hi> wherewith Chriſt was, but) with, and into the ſame Spirit, <hi>for as many as are bapti<g ref="char:EOLhyphen"/>zed into Chriſt, have put on Chriſt, Gal.</hi> 3.27. this therefore is the <hi>one and only Baptiſm:</hi> For,</p>
+            <p n="4">(4.) This <hi>Baptiſm</hi> makes us partakers of the Divine Nature, <hi>John</hi> 3.3. the <hi>Spirit</hi>'s <hi>Baptiſm</hi> gives a new Birth, and there<g ref="char:EOLhyphen"/>with a new Nature, and ſo the true <hi>Foundation</hi> of Chriſtianity comes not from <hi>Water Baptiſm,</hi>
+               <pb n="72" facs="tcp:102893:37"/>
+but is that of <hi>Faith, and a new Creature</hi>
+            </p>
+            <p n="2">(2.) This <hi>Baptiſm</hi> giveth a new Name, <hi>I will write upon him the new name of my God, and the name of the City of my God, which is new Jeruſalem, which comes down out of Heaven from my God, and I will write upon him my new Name,</hi> as the Lord ſaid to <hi>Jacob, thy name ſhall no more be called</hi> Jacob, <hi>but</hi> Iſrael, <hi>for as a Prince haſt thou Power with God, and haſt prevailed, and thus ſaith the Lord, to all that joyn themſelves to the Lord, that keep his Sabbaths, and that chooſe the things that pleaſe me, and take hold of my Covenant, even unto them will I give in my Houſe, and within my Walls, a place and a name, better than of Sons, and of Daughters, I will give them an everlaſting Name, which ſhall not
+<pb n="73" facs="tcp:102893:37"/>
+be cut off,</hi> Iſa. 66.4.5. <hi>and to him that overcomes, will I give to eat of the hidden Manna, and will give him a White Stone, and in the Stone a new Name written, which no Man knoweth, ſaving him that receiveth it.</hi>
+            </p>
+            <p n="3">(3.) This is the <hi>Baptiſm</hi> which makes all that partake thereof, Members of the true <hi>Church</hi> of <hi>Chriſt. For by one Spi<g ref="char:EOLhyphen"/>rit, we are all baptiſed into one Body;</hi> when the Sons of <hi>Zebe<g ref="char:EOLhyphen"/>dee</hi> deſired to ſit with <hi>Chriſt</hi> in his Kingdom, <hi>the one on his right Hand, and the other on his left, Jeſus asked if they were able to drink of the Cup that he drank of, and to be baptized with the Baptiſm that he was baptized with? And they ſayd unto him we are able, Jeſus anſwered, ye ſhall drink indeed of my Cup, and be baptized with the Baptiſm that I
+<pb n="74" facs="tcp:102893:38"/>
+am baptized with,</hi> &amp;c. now tho' their requeſt ſavoured to much of ambition, <hi>yet ſhall they have part in the Kingdom through ſuf<g ref="char:EOLhyphen"/>ferings.</hi>
+            </p>
+            <p n="4">(4.) It is the one <hi>Baptiſm</hi> only, which qualifies, fits, and enables to the work of the Mi<g ref="char:EOLhyphen"/>niſtry, all the ſharpeſt Wits, profoundeſt Learning, and the moſt exquiſite Accompliſh<g ref="char:EOLhyphen"/>ments, and curious Poliſhings, of natures chiefeſt Perfecting, cannot make a Goſpel Mini<g ref="char:EOLhyphen"/>ſter, it is the pouring out, and work of God's Holy Spirit, which makes a workman that needs not be aſhamed, <hi>And in thoſe days ſaith the Lord, I will pour out of my Spirit upon all Fleſh, and your Sons and your Daughters ſhall Propheſie,</hi> Joel 2.28. which is witneſſed, <hi>Acts</hi> 2.4. to 17. <hi>and they were all fil<g ref="char:EOLhyphen"/>ed
+<pb n="75" facs="tcp:102893:38"/>
+with the Holy Ghoſt, and be<g ref="char:EOLhyphen"/>gan to ſpeak with other Tongues, as the Spirit gave them utterance;</hi> And Bleſſings, Glory and ever<g ref="char:EOLhyphen"/>laſting Praiſes to our God, who after a long Night of Darkneſs and Degeneracy, hath in this our Age and Generation, viſi<g ref="char:EOLhyphen"/>ted a remnant who are brought forth through the <hi>new</hi> Birth, to feed upon the ſincere Milk of the Word of eternal Life, who find it their ſtrength, in ſtil<g ref="char:EOLhyphen"/>neſs and ſilence to wait upon God, with an intire depen<g ref="char:EOLhyphen"/>dance on him; who act not in their own wills, nor ſpeak their own Words, <hi>but as the anoint<g ref="char:EOLhyphen"/>ing which they have received and abideth in them, teacheth them all things that appertaineth to Life and Godlineſs; ſo that their Mi<g ref="char:EOLhyphen"/>niſtry is of the Spirit and not of the Letter, but done according to
+<pb n="76" facs="tcp:102893:39"/>
+the ability which God giveth, and by the movings of his Spirit, and if any thing be revealed to ano<g ref="char:EOLhyphen"/>ther, that ſits by, the firſt doth hold his Peace, that all may ſpeak one by one, and that only as the Spirit moves and gives them ut<g ref="char:EOLhyphen"/>terance, that all may learn, and all may be comforted,</hi> 1 <hi>Cor.</hi> 14.30. and amongſt thoſe, there is no deſpiſing of the weak; nor do the weak envy the ſtrong, but they wiſh with <hi>Moſes, that all the Lord's People were Pro<g ref="char:EOLhyphen"/>phets, and that the Lord would put his Spirit upon them,</hi> Numb. 11.29.</p>
+            <p n="5">(5.) This one <hi>Baptiſm,</hi> ma<g ref="char:EOLhyphen"/>keth all thoſe One with Chriſt, who partake of it, <hi>John</hi> 17.23. <hi>I in them, and thou in me, that they may be made perfect in one,</hi> and know ye not ſaith the <hi>A<g ref="char:EOLhyphen"/>poſtle, that ſo many of you as were
+<pb n="77" facs="tcp:102893:39"/>
+baptized into Jeſus Chriſt, were baptized into his Death; that like as Chriſt was raiſed up from the Dead, by the glory of the Father, even ſo alſo we ſhould walk in newneſs of Life. for if we have been planted in the likeneſs of his Death, we ſhall be alſo in the like<g ref="char:EOLhyphen"/>neſs of his Reſurrection,</hi> whence it appears, that by and through this one <hi>Baptiſm,</hi> all that are thereby ſanctified, are <hi>one</hi> with <hi>Chriſt</hi> in his Life. 2ly. in his Death. and 3ly. in his Reſur<g ref="char:EOLhyphen"/>rection, <hi>Rom.</hi> 6.3.4.</p>
+            <p n="6">(6.) This is that one and on<g ref="char:EOLhyphen"/>ly <hi>Baptiſm,</hi> which waſheth and cleanſeth from all Sin, <hi>know ye not,</hi> ſaith <hi>Paul, that the unrighteous ſhall not <hi>Inherit the Kingdom of God?</hi> be not deceived, neither Fornicators, nor Drunkards, nor Extortio<g ref="char:EOLhyphen"/>ners, nor Idolaters, nor Adulte<g ref="char:EOLhyphen"/>rers,
+<pb n="78" facs="tcp:102893:40"/>
+nor Effeminate, nor Abu<g ref="char:EOLhyphen"/>ſers of themſelves with mankind, nor Thieves, nor Covetous, nor Revilers, ſhall inherit the King<g ref="char:EOLhyphen"/>dom of God. But ſuch were ſome of you but ye are waſhed, but ye are ſanctified, but ye are jbſtified in the Name of the Lord Jeſus Chriſt, and by the Spirit of our God,</hi> 1 Cor. 6.9, 10, 11. <hi>even as Chriſt loved his Church, and gave himſelf for it, that he might ſanctifie and cleanſe it, with the waſhing of Water by the Word, that he might preſent it to himſelf a glorious Church, not having ſpot or wrinkle, nor any ſuch thing, but that it ſhould be Holy and without blemiſh,</hi> Eph. 5.25, 26, 27.</p>
+            <p n="7">(7.) This <hi>Baptiſm</hi> doth not only ſanctifie but ſave, <hi>For we our ſelves were ſometimes fooliſh, diſobedient, deceived, ſerving di<g ref="char:EOLhyphen"/>vers
+<pb n="79" facs="tcp:102893:40"/>
+luſts and pleaſures, living in malice and envy, hateful and hat<g ref="char:EOLhyphen"/>ing one another; but after that the kindneſs and love of God ap<g ref="char:EOLhyphen"/>peared toward mankind, not by works of Righteouſneſs which we have done, but according to his mercy he ſaved us, by the <hi>waſh<g ref="char:EOLhyphen"/>ing of Regeneration,</hi> and re<g ref="char:EOLhyphen"/>newing of the Holy Ghoſt, which he ſhed on us abundantly, through Jeſus Chriſt our Saviour,</hi> Tit. 3.3, 4, 5. <hi>and thus,</hi> ſaith <hi>Peter, doth</hi> Baptiſm <hi>ſave us (not the waſhing away the filth of the Fleſh, but) the anſwer of a good Conſcience towards God, through the Reſurrection of Jeſus Chriſt.</hi> 1 <hi>Pet.</hi> 3.20. ſo that <hi>Chriſt</hi>'s <hi>Spirit Baptiſm,</hi> by the Word, is ſufficient (to us) without <hi>John</hi>'s <hi>Water Baptiſm,</hi> for he that is truly waſhed from all filthineſs of Fleſh and Spirit, and hath
+<pb n="80" facs="tcp:102893:41"/>
+the <hi>Holy Ghoſt</hi> in him, to waſh, cleanſe, renew and ſanctifie his Nature; to conform his judgement, will and affection to the Image of Chriſt, and <hi>to be in him as a Well of living Wa<g ref="char:EOLhyphen"/>ter ſpringing up to everlaſting Life,</hi> what need hath he of Material Water, under pre<g ref="char:EOLhyphen"/>tence of any Sign or Significa<g ref="char:EOLhyphen"/>tion whatſoever, either from <hi>Moſes</hi> or <hi>John</hi> the Baptiſt, when he is actually poſſeſſed of the real Truth and Subſtance of theſe Types and Figures in himſelf already?</p>
+            <p>And laſtly touching the <hi>Lord</hi>'s <hi>Supper;</hi> which is a great My<g ref="char:EOLhyphen"/>ſtery, above which all the wor<g ref="char:EOLhyphen"/>ſhipers in the Outward Courts, (ſince the <hi>Apoſtaſie</hi> from the <hi>Spirit</hi> of Faith, Power and Pu<g ref="char:EOLhyphen"/>rity of the Primitive Church) have been, and are in darkneſs
+<pb n="81" facs="tcp:102893:41"/>
+and confuſion; and at beſt, reſting ſatisfied with the exter<g ref="char:EOLhyphen"/>nal Shadow, and Figure of the real Subſtance, which is the true Spiritual <hi>Supper</hi> of the Lord, not diſcerning the Lord's Body, nay, they are faln from the ve<g ref="char:EOLhyphen"/>ry outward form hereof, as held forth by Chriſt, <hi>Mat.</hi> 26.20. <hi>Luke</hi> 22.14. as he ſate, and the twelve <hi>Apostles</hi> with him, and after his Reſurrecti<g ref="char:EOLhyphen"/>on, he ſhewed himſelf to two of his Diſciples in breaking of Bread as he ſate with them, <hi>Luke</hi> 24.30. which was practi<g ref="char:EOLhyphen"/>ſed by thoſe Three Thouſand converted by <hi>Peter</hi>'s Sermon, <hi>They continued ſtedfaſt in the A<g ref="char:EOLhyphen"/>poſtles Doctrine and Fellowſhip, and in breaking of Bread, and in Prayer, Acts</hi> 2.42. <hi>daily break<g ref="char:EOLhyphen"/>ing Bread from Houſe to Houſe, did eat their Meat with gladneſs
+<pb n="82" facs="tcp:102893:42"/>
+and ſingleneſs of Heart, praiſing God, Acts</hi> 2.46. they did thus at all ſeaſons, even as often as they eat and drank, they were to do it in remembrance of Chriſt, to ſhew his Death till he come, 1 <hi>Cor.</hi> 11.26. and <hi>bleſſed is that Servant,</hi> ſaith our Saviour, <hi>whom his Lord when he cometh ſhall find ſo doing. But if the evil Servant ſhall ſay in his Heart, my Lord delay<g ref="char:EOLhyphen"/>eth his coming, and begin to ſmite his fellow ſervants, and to eat and drink with the Drunken; the Lord of that Servant ſhall come in a day that he looketh not for him, and in an hour that he is not aware of, and ſhall cut him aſunder, and give him his porti<g ref="char:EOLhyphen"/>on with Hypocrites, Mat.</hi> 24.46. to the end. Wherefore ſuch as live Voluptuouſly, in Rioting and Exceſs, in Hatred and En<g ref="char:EOLhyphen"/>vy,
+<pb n="83" facs="tcp:102893:42"/>
+in Strife and Cruelty (tho' they may be great pretenders to partake of the outward <hi>Bread</hi> and <hi>Wine,</hi>) and abide not ſted<g ref="char:EOLhyphen"/>faſt in the <hi>Apoſtle</hi>'s Doctrine, who ſaith, <hi>whether ye eat or drink, or whatever ye do, do all to the Glory of God,</hi> 1 <hi>Cor.</hi> 10.31. but eat and drink to in<g ref="char:EOLhyphen"/>dulge the Fleſh; <hi>whoſe God is their belly: Theſe,</hi> ſaith he in the 20 verſe of this Chapter, <hi>Sa<g ref="char:EOLhyphen"/>crifice to, and have fellowſhip with Devils; and ye cannot drink the Cup of the Lord, and the Cup of Devils. Nor can ye partake of the Lord's Table, and the Table of Devils,</hi> verſe 21. neither can they diſcern the Lord's Bo<g ref="char:EOLhyphen"/>dy, nor ſhew his Death till he come. And with ſuch he is al<g ref="char:EOLhyphen"/>ways to come; nay, when he does come and ſtand knocking at the door of their Heart, they
+<pb n="84" facs="tcp:102893:43"/>
+will not open to him, nor en<g ref="char:EOLhyphen"/>tertain him. <hi>but if any Man</hi> (ſaith the Lord) <hi>hear my voice and open the door, I will come in<g ref="char:EOLhyphen"/>to him, and Sup with him and he with me, Rev.</hi> 3.20. and this is the effectual <hi>Supper</hi> of the Lord's Table, which is the Fleſh and Blood of Chriſt in the Myſtery; <hi>John</hi> 6.56. <hi>he that eateth my Fleſh, and drink<g ref="char:EOLhyphen"/>eth my Blood, dwelleth in me, and I in him;</hi> and here the redeem<g ref="char:EOLhyphen"/>ed of the Lord, have their Communion in the Body and Blood of Chriſt, by his abide<g ref="char:EOLhyphen"/>ing in them, and they as living Branches of the true Vine, a<g ref="char:EOLhyphen"/>biding in him, and in this bleſſed Communion, the Fi<g ref="char:EOLhyphen"/>gure of the outward Supper is fulfiled, according to Chriſt's own Words, <hi>Luke</hi> 22.16 and 18. <hi>I will no more eat hereof,
+<pb n="85" facs="tcp:102893:43"/>
+nor drink of the Fruit of the Vine, until the Kingdom of God ſhall come, and it be fulfiled in the Kingdom of God,</hi> ſo that they only, who are partakers of the <hi>new Wine</hi> in Chriſt's <hi>Kingdom,</hi> can take the <hi>Cap</hi> of Salvation, and Praiſe his Name.</p>
+            <p>But notwithſtanding all that can be ſaid, none are greater oppoſers of the Power of God<g ref="char:EOLhyphen"/>lineſs, than they who have their life only in the outward profeſſion thereof; and are like thoſe Soldiers, very earneſt in parting and caſting Lots for Chriſt's Garments; not at all regarding the crucified <hi>Jeſus,</hi> upon the Croſs ſo near them. So, many Thouſands Profeſſors, ſpend moſt of their precious time about Words, Names, Shadows, vain Shows, and beggarly Elements, till they
+<pb n="86" facs="tcp:102893:44"/>
+diſputed and thrown away all inward ſenſe of true Chriſtiani<g ref="char:EOLhyphen"/>ty. What a noiſe they make a<g ref="char:EOLhyphen"/>bout <hi>Water, Bread</hi> and <hi>Wine,</hi> and other bodily exerciſes; acting in Religion? as if <hi>mak<g ref="char:EOLhyphen"/>ing,</hi> and <hi>bleſſing</hi> an <hi>Idol;</hi> and employed in heartleſs, overly and outſide Performances; but within full of Envy, Pride and Covetouſneſs; as if they thought to clime into Heaven that way by which <hi>Lucifer</hi> was caſt out. Here's enough ſaid, to ſatisfie the impartial and unprejudiced, but to ſuch as are wedded to the <hi>Forms, Cuſtoms,</hi> and <hi>Tradi<g ref="char:EOLhyphen"/>tions</hi> of <hi>Men,</hi> this Doctrine will ſeem New, Strange and Dangerous; nevertheleſs, tho' many underſtand not theſe things at preſent, yet, I hope they may hereafter; and to ſuch as are otherwiſe minded,
+<pb n="87" facs="tcp:102893:44"/>
+God will reveal theſe, and greater Myſteries in his due time.</p>
+            <p>And therefore, to that pure Inviſible, Unchangeable and Immortal Seed, and Principle of Life and Light, <hi>Which en<g ref="char:EOLhyphen"/>lightneth every one that comes into the World; that Word which is nigh in the Heart,</hi> that everlaſting Goſpel which is preached, <hi>Col</hi> 1.23. <hi>In every Creature</hi> (for ſo it is in the <hi>Greek</hi> Copie) <hi>under Heaven,</hi> even to that <hi>Grace and Spirit of God, which appeareth,</hi> and offer<g ref="char:EOLhyphen"/>eth <hi>Salvation to all Men,</hi> which inwardly makes manifeſt the hidden works of Darkneſs, re<g ref="char:EOLhyphen"/>proves and condemns all un<g ref="char:EOLhyphen"/>righteouſneſs in Heart and Life, directs and leads into the way of Life and Peace, accepteth of, and rewardeth for well-doing,
+<pb n="88" facs="tcp:102893:45"/>
+let every one who love their own Souls be inwardly turned, to love it, believe in it, and o<g ref="char:EOLhyphen"/>bey it, that ye may no longer remain in Darkneſs, but walk and abide in the <hi>Light</hi> of the Lord, to whom be <hi>Glory, Ho<g ref="char:EOLhyphen"/>nour</hi> and <hi>Obedience</hi> for ever, <hi>Amen.</hi>
+            </p>
+            <p>
+               <hi>God</hi> the <hi>Father,</hi> hath com<g ref="char:EOLhyphen"/>mitted all <hi>Power</hi> in Heaven, and upon Earth to his <hi>Son,</hi> and made him Supream <hi>Head</hi> and Governour over his Church; and <hi>He</hi> in his own Divine <hi>Light</hi> ma<g ref="char:EOLhyphen"/>nifeſts and reveals himſelf, his mind and will to Man; and is all-ſufficient, and ever preſent to direct and lead his People in<g ref="char:EOLhyphen"/>to <hi>all Truth.</hi> And being our Lord, our Judge, and Law-giver, re<g ref="char:EOLhyphen"/>quires univerſal Obedience to his Royal Law written in our
+<pb n="89" facs="tcp:102893:45"/>
+Hearts, and hath always the Soveraign Power to lay aſide, alter, aboliſh and lead his Peo<g ref="char:EOLhyphen"/>ple from the uſe of outward Obſervations and Ordinances, that are idolized or abuſed, as well now as he did formerly, by Temple-Worſhip, Sacrifi<g ref="char:EOLhyphen"/>ces, the Paſſover and Circum<g ref="char:EOLhyphen"/>ciſion; which at firſt was com<g ref="char:EOLhyphen"/>manded the <hi>Jews,</hi> and their Seed for an everlaſting Cove<g ref="char:EOLhyphen"/>nant.</p>
+            <p n="1">(1.) Even as <hi>Swearing</hi> un<g ref="char:EOLhyphen"/>der the <hi>old Teſtament;</hi> an <hi>Oath</hi> was then taken for confirmati<g ref="char:EOLhyphen"/>on, &amp;c. which under the Goſ<g ref="char:EOLhyphen"/>pel is expreſly forbidden by Chriſt, <hi>Mat.</hi> 5.34.35. and by the Apoſtle, <hi>James</hi> 5.12.</p>
+            <p>The Primitive Chriſtians kept this Doctrine, againſt the com<g ref="char:EOLhyphen"/>mandments of <hi>Heathen Empe<g ref="char:EOLhyphen"/>rors,
+<pb n="90" facs="tcp:102893:46"/>
+Popes,</hi> and perſecuting <hi>Princes:</hi> As,</p>
+            <p>
+               <hi>Policarpus</hi> refuſed to Swear, affirming it a ſpecial Character of a true <hi>Chriſtian,</hi> not to <hi>Swear</hi> at all; he was burn'd therefore in the 86 Year of his Age, <hi>Acts</hi> and <hi>Mon. vol.</hi> 1. <hi>fol.</hi> 55.</p>
+            <p>
+               <hi>Baſiliades,</hi> another <hi>Martyr,</hi> affirmed it was not lawful for a <hi>Chriſtian</hi> to Swear, <hi>Euſeb. c.</hi> 6. <hi>p.</hi> 98.</p>
+            <p>In the <hi>Plowman's Com<g ref="char:EOLhyphen"/>plaint,</hi> we have this Expreſſi<g ref="char:EOLhyphen"/>on, <q>Lord thou giveſt us thy Commandment of Truth, not to <hi>Swear,</hi> but to ſay, <hi>yea, yea:</hi> and <hi>nay, nay,</hi> and to be Hum<g ref="char:EOLhyphen"/>ble and Meek; but he that calls himſelf <hi>thy Vicar</hi> on Earth, hath broken both theſe Commandments, compelling Men to Swear, and teacheth, that to ſave Life, a Man may
+<pb n="91" facs="tcp:102893:46"/>
+forſwear himſelf, <bibl>
+                     <hi>Acts</hi> and <hi>Mon. vol.</hi> 1. <hi>fol.</hi> 527.</bibl>
+               </q>
+            </p>
+            <p>
+               <hi>Walter Brute</hi> affirmeth, that as it was the Perfection of the Ancients in the <hi>Old Teſtament, not to forſwear themſelves,</hi> ſo the Perfection of a Chriſtian Man, is <hi>not to Swear at all, Acts</hi> and <hi>Mon. vol.</hi> 1. <hi>fol.</hi> 653.</p>
+            <p>And <hi>Chriſoſtome</hi> declares it is a Sin to Swear upon any ac<g ref="char:EOLhyphen"/>count, <hi>Acts</hi> and <hi>Mon. vol.</hi> 1. <hi>fol.</hi> 701.</p>
+            <p>Yea a great <hi>Maſter</hi> in <hi>Divi<g ref="char:EOLhyphen"/>nity</hi> ſaith, It is not lawful ei<g ref="char:EOLhyphen"/>ther to give, or take an <hi>Oath</hi> upon a Book; for ſaith he, a Book is nothing elſe but di<g ref="char:EOLhyphen"/>vers <hi>Creatures</hi> whereof it is made; therefore to Swear up<g ref="char:EOLhyphen"/>on a Book, is to Swear by <hi>Crea<g ref="char:EOLhyphen"/>tures;</hi> and this Swearing is ever unlawful, <hi>Acts</hi> and <hi>Mon. vol.</hi> 1. <hi>fol.</hi> 701.</p>
+            <p>
+               <pb n="92" facs="tcp:102893:47"/>So likewiſe, other Cuſtoms which had their Riſe and Au<g ref="char:EOLhyphen"/>thority of the <hi>Romiſh Church,</hi> and <hi>Popiſh Councils,</hi> intruded meerly for filthy Lucres ſake, ought to be laid aſide, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Ignatius</hi> Biſhop of <hi>Rome,</hi> was the firſt who ordained that <hi>In<g ref="char:EOLhyphen"/>fants</hi> ſhould be baptized, and have <hi>God-fathers</hi> and <hi>God mo<g ref="char:EOLhyphen"/>thers.</hi>
+            </p>
+            <p>And <hi>anno</hi> 1500. it was or<g ref="char:EOLhyphen"/>dained by the Council, held at <hi>Pïſoy</hi> in <hi>France,</hi> that <hi>Infant Bap<g ref="char:EOLhyphen"/>tiſm</hi> ſhould be received by <hi>Tra<g ref="char:EOLhyphen"/>dition,</hi> becauſe it could not be proved by <hi>Scripture.</hi>
+            </p>
+            <p>And <hi>Higinus</hi> the ninth Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Rome,</hi> ordained the <hi>Communion</hi> to be celebrated three times a Year.</p>
+            <p n="2">(2.) And as for paying <hi>Tythes</hi> under the <hi>Goſpel</hi> Diſpenſation 'tis ſufficiently manifeſt to be a <hi>Popiſh</hi> impoſition.</p>
+            <p>
+               <pb n="93" facs="tcp:102893:47"/>Pope <hi>Pius</hi> the 5th, com<g ref="char:EOLhyphen"/>manded <hi>Tythes</hi> to be paid under the penalty of Excommunica<g ref="char:EOLhyphen"/>tion.</p>
+            <p>The <hi>Bohemians</hi> in their Chri<g ref="char:EOLhyphen"/>ſtian Exhortation to <hi>Kings</hi> and <hi>Princes,</hi> to ſtir them up to Zeal for the Goſpel, againſt the co<g ref="char:EOLhyphen"/>vetous practices of the Clergy, ſay, <q>They receive <hi>Tythes</hi> of Men, and will have them; and preach that Men are bound to give them <hi>Tythes.</hi> but therein they ſay falſly, for they can<g ref="char:EOLhyphen"/>not prove by the <hi>new Teſta<g ref="char:EOLhyphen"/>ment,</hi> that our Lord Jeſus commanded it, neither did his Diſciples receive any; and tho' in the <hi>old Teſtament,</hi> it was commanded to give <hi>Tythes,</hi> yet, can it not thereby be proved that Chriſtians are bound thereunto; for this precept of the <hi>old Teſtament,</hi> had an end
+<pb n="94" facs="tcp:102893:48"/>
+in the firſt Year of our Lord Jeſus Chriſt, like as the pre<g ref="char:EOLhyphen"/>cept of <hi>Circumciſion.</hi> Where<g ref="char:EOLhyphen"/>fore conſider, and ſee how your Biſhops ſeduce you with things that have no proof; Chriſt ſaid in the 11th of <hi>Luke, Give Alms of thoſe things that remain,</hi> but ſaid not, give the <hi>Tenth</hi> ye poſſeſs, <bibl>
+                     <hi>Acts</hi> and <hi>Mon. vol.</hi> 1. <hi>fol.</hi> 860.</bibl>
+               </q>
+            </p>
+            <p>Finally, <hi>The Main and Principal Foundation of the Law of England is the Law of God,</hi> ſo ſaith the <hi>Law-Book, Doctor</hi> and <hi>Student, c.</hi> 2. <hi>p.</hi> 4. in theſe Words,</p>
+            <p>
+               <q>There is a Law written in the Heart of Man, which is Man created in the Image of God; and this Law is always Good and Righteous, ſtiring up the Man to do that which is good, and abhor the evil;
+<pb n="95" facs="tcp:102893:48"/>
+and therefore againſt this Law (ſaith the Book) <hi>Preſcrip<g ref="char:EOLhyphen"/>tion, Statute, Cuſtom</hi> may not prevail, and if any be brought againſt it, they are void, and againſt Juſtice.</q>
+            </p>
+            <p>Wherefore it doth neceſſari<g ref="char:EOLhyphen"/>ly follow, that all Popiſh or Prelatical Preſcriptions, Cu<g ref="char:EOLhyphen"/>ſtoms or Penal Statutes, con<g ref="char:EOLhyphen"/>cerning <hi>Oathes</hi> or <hi>Tyths,</hi> or any other thing, not ſounded on the Law of God written in the Heart; are void, and againſt Juſtice:</p>
+            <p>For undoubtedly, they who laid the firſt Foundation of <hi>Government,</hi> had Authority to make ſuch a Con<g ref="char:EOLhyphen"/>ſtitution as cannot be altered by Po<g ref="char:EOLhyphen"/>ſterity, for Foundations cannot be removed, without hazzard of the whole building, but if any do here plead the neceſſity of times, the ex<g ref="char:EOLhyphen"/>pediency or uſefulneſs of ſome ſuch Statutes or Cuſtoms? I Anſwer, 1ſt. the greateſt neceſſity and care, is, and ſhould be to ſecure and maintain
+<pb n="96" facs="tcp:102893:49"/>
+the Foundation, and 2ly. however neceſſity might ſupport, and indulge other Laws: it cannot, ſuch as alter and are pernicious to the <hi>Conſtitution;</hi> but every legal advantage ſhould be taken for reſtoring it, together with our juſt Rites and Freedoms, from all Arbitrary oppreſſions, and in<g ref="char:EOLhyphen"/>novations, and more particularly from the aforeſaid Popiſh intruſions and impoſitions, for <hi>Oaths</hi> and <hi>Tythes.</hi>
+            </p>
+            <p>And this is the humble and earneſt deſire of every good ſubject, that they who are more eſpecially con<g ref="char:EOLhyphen"/>cerned, may ſo <hi>Vote,</hi> and ſo <hi>Enact, As thoſe that ſhall be judged by the Law of Liberty, James</hi> 2.12. for by this Law in the Heart, God hath ſhewed unto them that Govern, as unto us who are under them, <hi>what is good, and what he requires of us all,</hi> Mic. 6.8.</p>
+            <p>And that they who ſit to Judge us according to the Law; may not com<g ref="char:EOLhyphen"/>mand nor ſuffer us (any longer) to be <hi>Smitten contrary to the Law</hi> Acts 23.3.</p>
+            <pb facs="tcp:102893:49"/>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:102893:50"/>
+            <pb n="97" facs="tcp:102893:50"/>
+            <head>Poſtſcript.</head>
+            <p>THE ſumm, and end of all <hi>Teſtimonies, Declarations, Words,</hi> and <hi>Writing,</hi> is, or ought to be, to Reconcile, Recover, and Reſtore loſt <hi>Man</hi> unto <hi>God,</hi> and into his Favour.</p>
+            <p>And this is to be done no o<g ref="char:EOLhyphen"/>ther way, but only, in and by Jeſus Chriſt our Lord. <hi>
+                  <hi>He is the Way;</hi> I am the Way,</hi> (ſaith he) <hi>and no Man cometh to the Father but by me,</hi> John 14.4, 5, 6.</p>
+            <p>Now then: <hi>He,</hi> and <hi>he</hi> only, is in <hi>the right way</hi> to Eternal Life, <hi>who is in Chriſt,</hi> that hath put on Chriſt, that dwelleth and abideth in Chriſt, and Chriſt in him, <hi>John</hi> 6, 56.</p>
+            <p>
+               <pb n="98" facs="tcp:102893:51"/>But ſome will ſay, <hi>who is in Chriſt?</hi> Anſw. <hi>The new Crea<g ref="char:EOLhyphen"/>ture;</hi> even <hi>he</hi> or <hi>ſhe</hi> that is raiſed up from dead Works, and made alive to God by the ſame Spirit and Power that raiſed up <hi>Jeſus</hi> from the Dead, <hi>Rom.</hi> 8.11.</p>
+            <p>That, like as Chriſt was raiſed up from the Dead, by the Glory of the Father, even ſo, we alſo ſhould walk in newneſs of Life, <hi>Rom.</hi> 6.4.</p>
+            <p>Therefore, if any Man be in Chriſt, he is a <hi>new Creature;</hi> be<g ref="char:EOLhyphen"/>hold all things are become <hi>new.</hi> and all things are of God, who hath reconciled us unto himſelf by Jeſus Chriſt, 2 <hi>Cor.</hi> 5.17.</p>
+            <p>Wherefore, all my <hi>Dear Friends, Brethren</hi> and <hi>Siſters,</hi> who have believed in the <hi>Light,</hi> and do walk in the <hi>Light;</hi> and tho' <hi>this way</hi> is every where evil ſpoken of, <hi>Acts</hi> 19.9. Yet to
+<pb n="99" facs="tcp:102893:51"/>
+you, <hi>he</hi> is precious, his ways are ways of <hi>Pleaſantneſs,</hi> and all his paths full of <hi>Peace, Prov.</hi> 3.17. Hold on, keep in this your way to the end; and as ye have re<g ref="char:EOLhyphen"/>ceived <hi>Chriſt Jeſus the Lord, even ſo walk in him,</hi> Col. 2.6. So run, as that ye may obtain the Crown, and finiſh your Courſe with Joy. Take heed, Watch and Pray leaſt ye fall or enter into <hi>Temptation,</hi> of being eaſie or luke-warm, or to begin to wax wanton againſt Chriſt, 1 <hi>Yim.</hi> 5.11. And ſo eſpouſe to your ſelves any carnal Intreſt, or falſe Liberty, which leadeth down to the Chambers of <hi>Death</hi> and <hi>Hell, Prov.</hi> 7.27.</p>
+            <p>And therefore believing, that I am in Conſcience obliged both to God and Man, and made willing, as a <hi>warning</hi> unto <hi>All,</hi> here to Inſert and Publiſh this following <hi>Teſtimony.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <pb n="100" facs="tcp:102893:52"/>
+            <head>A Copy of the Paper ſent to <hi>Nottingham,</hi> the 21st. of the 7th. Month, <hi>1697.</hi>
+            </head>
+            <opener>
+               <salute>To all tender and upright-hearted Friends in <hi>Not<g ref="char:EOLhyphen"/>tingham,</hi> and <hi>Nottin<g ref="char:EOLhyphen"/>ghamſhire, James Jack<g ref="char:EOLhyphen"/>ſon</hi> ſendeth Greeting, in the Love and Fear of God which abideth unchanga<g ref="char:EOLhyphen"/>ble for ever.</salute>
+            </opener>
+            <p>MY <hi>Dear Friends,</hi> whereas by my ſinful Prevarica<g ref="char:EOLhyphen"/>tions, and publick Revolt, the Glorious Name of the <hi>Lord,</hi> and his ever bleſſed <hi>Truth,</hi> hath
+<pb n="101" facs="tcp:102893:52"/>
+been greatly diſhonoured: his holy Spirit, together with yours, exceedingly grieved; be<g ref="char:EOLhyphen"/>ſides the manifeſt occaſion of Stumbling, Offence, and Per<g ref="char:EOLhyphen"/>judice, hereby given to the World.</p>
+            <p>And now, (through the infi<g ref="char:EOLhyphen"/>nite Goodneſs and Mercy of <hi>God</hi> in <hi>Jeſus Chriſt</hi>) being brought into the weighty ſence of his righteous Judgments, and juſt Diſpleaſure for my Tranſ<g ref="char:EOLhyphen"/>greſſions and Backſlidings; feel<g ref="char:EOLhyphen"/>ing alſo, the operation of his mighty Power, in the freſh Viſitations of his Love, renew<g ref="char:EOLhyphen"/>ing and reviving his own bleſ<g ref="char:EOLhyphen"/>ſed Work upon my Heart; whereby he hath made me (as at firſt) to look unto him whom I have Pierced, and with ſhame and contrition, to yeild unto, and fall under thoſe very ſame Pricks
+<pb n="102" facs="tcp:102893:53"/>
+and Divine Reproofs, againſt which I have too too long kick<g ref="char:EOLhyphen"/>ed.</p>
+            <p>In the living ſence hereof, I am conſtrained to declare unto you, and am not aſhamed to Publiſh unto the World, how abundantly Good, and Gracious, the Lord hath been, and is to me, who after all my Provoca<g ref="char:EOLhyphen"/>tions and Ill requitals, hath once more in the way of his Judg<g ref="char:EOLhyphen"/>ments, extended Mercy; and as a God that waits to be Gracious hath given me a repenting, bro<g ref="char:EOLhyphen"/>ken, and returning frame of Heart, filled with Self-condem<g ref="char:EOLhyphen"/>ning and Self-abhorring reſent<g ref="char:EOLhyphen"/>ments; and (withal) raiſed in me a living hope, that as he hath ſeen all my Wanderings, and perverſneſs of my ways, he will alſo pity and heal me, and reſtore Comforts to me and
+<pb n="103" facs="tcp:102893:53"/>
+to you, my Mourners; accord<g ref="char:EOLhyphen"/>ing to that precious Word, <hi>Iſa.</hi> 57.15, 16, 17, 18.</p>
+            <p>Neither can I here omit, to make my ſincere and thankful Acknowledgements for the ma<g ref="char:EOLhyphen"/>ny repeated <hi>Teſtimonies</hi> of your tender Care and Chriſtian-like Dealing with me; watching over me, adminiſtring whol<g ref="char:EOLhyphen"/>ſome and ſeaſonable Admoniti<g ref="char:EOLhyphen"/>ons, faithful and compaſſionate Reproofs; and laſtly, righteous and juſt Cenſures. All which, (as to me) I own were very neceſſary; and as from you, the products of Love and Faithful<g ref="char:EOLhyphen"/>neſs. The ſavour thereof, hath ever ſince (by times) affected my Heart with warm Inclinati<g ref="char:EOLhyphen"/>ons to love you, and ſecret Mo<g ref="char:EOLhyphen"/>tions to return (with the <hi>Dove</hi>) into the <hi>Ark,</hi> back again unto you, <hi>Hoſ.</hi> 2.7.</p>
+            <p>
+               <pb n="104" facs="tcp:102893:54"/>And alſo, in tender Love and Faithfulneſs, I cannot but warn and beſeech, thoſe, who in any meaſure or degree have ſwerved from the pure path of Holineſs and Selfdenial; whoſe Hearts are privy to any ſecret allow<g ref="char:EOLhyphen"/>ance of <hi>Sin,</hi> or inward declin<g ref="char:EOLhyphen"/>ings or decay from your firſt <hi>Love,</hi> that ye make haſte, and delay not; but immediately look up unto <hi>Jeſus</hi> (as they in the <hi>Wilderneſs</hi> to the <hi>Brazen Serpent</hi>) Oh! linger not, dally not with <hi>Sin;</hi> nor take liberty to defer from mine or any o<g ref="char:EOLhyphen"/>thers evil Example, leaſt hard<g ref="char:EOLhyphen"/>neſs come, through the deceit<g ref="char:EOLhyphen"/>fulneſs of <hi>Sin;</hi> who knows how ſoon the Day of Viſitati<g ref="char:EOLhyphen"/>on may be over, the ſtrivings of Gods Spirit ceaſe, and the Door of Mercy be ſhut. And as for my part (tho' I can truly
+<pb n="105" facs="tcp:102893:54"/>
+ſay, the Lord hath preſerved me from the Spirit of Envy, and Prejudice, (the uſual Compani<g ref="char:EOLhyphen"/>ons of <hi>Apoſtacy</hi>) yet I muſt ever pray, that none who have known the <hi>Truth,</hi> may have the like occaſion to feel the bit<g ref="char:EOLhyphen"/>ter Pangs, Terrors, and Difficu<g ref="char:EOLhyphen"/>ties, which attend a deferred re<g ref="char:EOLhyphen"/>turn.</p>
+            <p>And <hi>Ye,</hi> who have abode Faithful, and continued in your firſt Station; knowing that all your Strenth and Sufficiency is of Grace: Put on, as the <hi>Elect of God,</hi> Bowels of Mercy, and Pitty; ſuſtaine the Weak, and pray for Us, and all that have taſted of the <hi>Good Word of Life,</hi> and the <hi>Powers of the World to come;</hi> that we, toge<g ref="char:EOLhyphen"/>ther with you, may be Preſer<g ref="char:EOLhyphen"/>ved, and perſevere in that Li<g ref="char:EOLhyphen"/>berty wherein the <hi>Truth</hi> doth
+<pb n="106" facs="tcp:102893:55"/>
+ſet us free; and <hi>there</hi> abiding, may keep our Dominion, in the Authority of <hi>Truth,</hi> over the <hi>Luſts of the Fleſh,</hi> the <hi>Luſts of the Eyes,</hi> and the <hi>Pride of Life.</hi>
+            </p>
+            <p>And to conclude, with the humble Expreſſion of <hi>Nebuchad<g ref="char:EOLhyphen"/>nezzar,</hi> (in the like caſe) <hi>Dan.</hi> 4.37. <hi>I Praiſe, and Extoll, and Honour the God of Heaven, all whoſe Works are Truth, and his Ways are Judgment, and they that walk in Pride, he is able to Abaſe.</hi>
+            </p>
+            <closer>
+               <signed>Iames Iackſon.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:102893:55"/>
+         </div>
+      </body>
+   </text>
+</TEI>
